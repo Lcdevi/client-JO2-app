@@ -1,19 +1,19 @@
 import React from 'react';
-import {Link} from 'react-router-dom';
+import {NavLink} from 'react-router-dom';
 import "../styles/navbar.css";
 
 const NavBar = () => {
     return (
             <nav className="nav">
-                <div id="jo2-home">JO²</div>
+                <NavLink to="/"><div id="jo2-home">JO²</div></NavLink>
                 <ul>
-                    <li>Collections</li>
-                    <li>Bio</li>
-                    <li>Contact</li>
+                    <NavLink to="/collections"><li>Collections</li></NavLink>
+                    <NavLink to="/qui-sommes-nous"><li>Qui sommes nous ?</li></NavLink>
+                    <NavLink to="/contact"><li>Contact</li></NavLink>
                 </ul>
-                <div id="nav">
-                    <div></div>
-                    <div></div>
+                <div id="social-div">
+                    <a href="https://www.instagram.com/jojodaviau/" target="_blank" rel="noreferrer"><div className="social-logo"></div></a>
+                    <a href="https://www.facebook.com/Jonathan2Stab/" target="_blank" rel="noreferrer"><div className="social-logo"></div></a>
                 </div>
             </nav>
     )

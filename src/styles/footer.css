@@ -1,0 +1,15 @@
+footer {
+    background-color: #ffffd9;
+    color: #1800A8;
+}
+
+footer ul {
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+}
+
+footer ul li {
+    padding: 20px;
+}

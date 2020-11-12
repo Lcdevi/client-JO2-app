@@ -1,18 +1,19 @@
 .nav {
-    border: 1px solid red;
+    /* border: 2px solid #fCD200; */
     font-family: 'Ruda', sans-serif;
     font-weight: bold;
     display: flex;
     justify-content: space-between;
-    height: 90px;
-    background-color: #FFF6F4 ;
+    height: 80px;
+    /* background: linear-gradient(#fCD200, #ffffa3); */
+    background-color: #ffffd9 ;
     color: #1800A8;
-    font-size: 16px;
+    font-size: 14px;
     align-items: center;
 }
 
 .nav ul {
-    border: 1px solid grey;
+    /* border: 1px solid grey; */
     display: flex;
     align-items: center;
     width: 400px;
@@ -20,13 +21,26 @@
 }
 
 .nav ul li {
-    border-bottom: 2px solid #1800A8;
+    border-bottom: 1px solid #1800A8;
     padding-bottom: 8px;
 }
 
 #jo2-home {
     margin: 0 0 0 70px;
-    font-size: 24px;
+    font-size: 20px;
     border-bottom: 2px solid #1800A8;
     padding-bottom: 8px;
+}
+
+#social-div {
+    display: flex;
+    width: 110px;
+    justify-content: space-between;
+    margin: 0 70px 0 0;
+}
+
+.social-logo {
+    width: 20px;
+    height: 20px;
+    background-color: #1800A8;
 }

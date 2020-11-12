@@ -1,0 +1,52 @@
+#main-home-div {
+    /* border: 2px solid yellow; */
+    display: flex;
+    justify-content: center;
+}
+
+#main-home-div img {
+    /* border: 2px solid red; */
+    width: 1100px;
+}
+
+.framed-home {
+    border: 2px solid #1800A8;
+    display: flex;
+    color: #1800A8;
+    position: absolute;
+    bottom: 32px;
+    right: 32px;
+    background-color: whitesmoke;
+    padding: 40px;
+}
+
+#home-image-and-infos {
+    position: relative;
+    /* border: 3px solid green; */
+    margin: 46px 0;
+}
+
+#infos-title {
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0 40px 0 0;
+    width: 120px;
+}
+
+#infos-text {
+    /* border: 1px solid red; */
+    font-size: 14px;
+    width: 260px;
+}
+
+#decouvrir-btn {
+    border-bottom: 1px solid #1800A8;
+    margin-top: 14px;
+    padding-bottom: 8px;
+    width: 95px;
+    font-weight: bold;
+}
