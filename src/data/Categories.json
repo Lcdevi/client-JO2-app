@@ -1,32 +1,32 @@
 [
     {
-        "id": "_cat001",
+        "id": "forme001",
         "name": "forme 1",
         "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605295479/Jo2-website/Categories/DSC03271_y1aon4.jpg"
     },
     {
-        "id": "cat002",
+        "id": "forme002",
         "name": "forme 2",
-        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605294858/Jo2-website/Categories/category-img_pv3vsc.png"
+        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605298622/Jo2-website/Categories/DSC03192_drh080.jpg"
     },
     {
-        "id": "cat003",
+        "id": "forme003",
         "name": "forme 3",
-        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605294858/Jo2-website/Categories/category-img_pv3vsc.png"
+        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605298777/Jo2-website/Categories/DSC03185_r7xw8w.jpg"
     },
     {
-        "id": "cat004",
+        "id": "forme004",
         "name": "forme 4",
-        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605294858/Jo2-website/Categories/category-img_pv3vsc.png"
+        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605298942/Jo2-website/Categories/DSC03242_rrcgjf.jpg"
     },
     {
-        "id": "cat005",
+        "id": "forme005",
         "name": "forme 5",
-        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605294858/Jo2-website/Categories/category-img_pv3vsc.png"
+        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605299075/Jo2-website/Categories/DSC03258_a7sqhv.jpg"
     },
     {
-        "id": "cat006",
-        "name": "Catégorie 6",
+        "id": "forme006",
+        "name": "forme 6",
         "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605294858/Jo2-website/Categories/category-img_pv3vsc.png"
     }
 ]
