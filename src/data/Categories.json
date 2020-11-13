@@ -1,0 +1,32 @@
+[
+    {
+        "id": "_cat001",
+        "name": "forme 1",
+        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605295479/Jo2-website/Categories/DSC03271_y1aon4.jpg"
+    },
+    {
+        "id": "cat002",
+        "name": "forme 2",
+        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605294858/Jo2-website/Categories/category-img_pv3vsc.png"
+    },
+    {
+        "id": "cat003",
+        "name": "forme 3",
+        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605294858/Jo2-website/Categories/category-img_pv3vsc.png"
+    },
+    {
+        "id": "cat004",
+        "name": "forme 4",
+        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605294858/Jo2-website/Categories/category-img_pv3vsc.png"
+    },
+    {
+        "id": "cat005",
+        "name": "forme 5",
+        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605294858/Jo2-website/Categories/category-img_pv3vsc.png"
+    },
+    {
+        "id": "cat006",
+        "name": "Catégorie 6",
+        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605294858/Jo2-website/Categories/category-img_pv3vsc.png"
+    }
+]

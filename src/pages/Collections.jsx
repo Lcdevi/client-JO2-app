@@ -1,11 +1,23 @@
-import React from 'react'
+import React from 'react';
+import "../styles/collections.css";
+import CategoriesData from "../data/Categories.json";
+import CategoryCart from "../components/CategoryCart"
 
-const Collections = () => {
-    return (
-        <div>
-            <h1>Collections</h1>
-        </div>
-    )
+class Collections extends React.Component {
+
+    state = {
+        categories: CategoriesData,
+    }
+
+    render() {
+        return (
+            <div id="collections-page">
+                <h1>NOS FORMES</h1>
+                <CategoryCart categories={ CategoriesData }/>
+            </div>
+        )
+    }
+
 }
 
 export default Collections
