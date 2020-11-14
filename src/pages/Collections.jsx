@@ -11,6 +11,7 @@ class Collections extends React.Component {
     }
 
     render() {
+        console.log(this.state)
         return (
             <div id="collections-page">
                 <h1>LES FORMES</h1>

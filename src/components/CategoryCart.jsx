@@ -14,7 +14,7 @@ class CategoryCart extends Component {
             <div id="cat-container">
                 {this.state.categories.map((cat, index) => (
                     // <Link to={`/collections/${cat.id}`} key={index}>
-                    <Link to={`/${cat.id}`} key={index} categories={this.props.categories}>
+                    <Link to={`/${cat.id}`} key={index} categories={this.state.categories}>
                         <div id="cat-cart-container">
                             <img src={cat.imageUrl} alt=""/>
                             <div id='topito'>

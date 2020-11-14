@@ -8,7 +8,8 @@ import Home from "./pages/Home";
 import Collections from "./pages/Collections";
 import Contact from "./pages/Contact";
 import QuiSommesNous from "./pages/QuiSommesNous";
-import FormPage from "./pages/formPage";
+import Forme1Page from "./pages/forme1Page";
+import Forme2Page from "./pages/forme2Page";
 
 // ---------------- IMPORT STYLE ----------------- //
 import './App.css';
@@ -23,7 +24,8 @@ function App() {
         <Route path="/collections" component={Collections} />
         <Route path="/contact" component={Contact} />
         <Route path="/qui-sommes-nous" component={QuiSommesNous} />
-        <Route path="/forme001" component={FormPage} />
+        <Route path="/forme001" component={Forme1Page} />
+        <Route path="/forme002" component={Forme2Page} />
 
       </Switch>
       <Footer />

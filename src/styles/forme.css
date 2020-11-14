@@ -1,0 +1,11 @@
+.title-forme {
+    width: 80vw;
+    height: 5em;
+    background-color: #eae6ff;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

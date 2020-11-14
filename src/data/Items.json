@@ -1,0 +1,74 @@
+[
+    {
+        "id": "forme_1_item-1",
+        "name": "grand bol 001",
+        "image": "",
+        "shape": "grand_bol"
+    },
+    {
+        "id": "forme_1_item-2",
+        "name": "grand bol 002",
+        "image": "",
+        "shape": "grand_bol"
+    },
+    {
+        "id": "forme_1_item-3",
+        "name": "grand bol 003",
+        "image": "",
+        "shape": "grand_bol"
+    },
+    {
+        "id": "forme_1_item-4",
+        "name": "grand bol 004",
+        "image": "",
+        "shape": "grand_bol"
+    },
+    {
+        "id": "forme_1_item-5",
+        "name": "grand bol 005",
+        "image": "",
+        "shape": "grand_bol"
+    },
+    {
+        "id": "forme_1_item-6",
+        "name": "grand bol 006",
+        "image": "",
+        "shape": "grand_bol"
+    },
+    {
+        "id": "forme_2_item-1",
+        "name": "petit bol 001",
+        "image": "",
+        "shape": "petit_bol"
+    },
+    {
+        "id": "forme_2_item-2",
+        "name": "petit bol 002",
+        "image": "",
+        "shape": "petit_bol"
+    },
+    {
+        "id": "forme_2_item-3",
+        "name": "petit bol 003",
+        "image": "",
+        "shape": "petit_bol"
+    },
+    {
+        "id": "forme_2_item-4",
+        "name": "petit bol 004",
+        "image": "",
+        "shape": "petit_bol"
+    },
+    {
+        "id": "forme_2_item-5",
+        "name": "petit bol 005",
+        "image": "",
+        "shape": "petit_bol"
+    },
+    {
+        "id": "forme_2_item-6",
+        "name": "petit bol 006",
+        "image": "",
+        "shape": "petit_bol"
+    }
+]
