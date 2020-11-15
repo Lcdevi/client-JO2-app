@@ -34,41 +34,5 @@
         "name": "grand bol 006",
         "image": "",
         "shape": "grand_bol"
-    },
-    {
-        "id": "forme_2_item-1",
-        "name": "petit bol 001",
-        "image": "",
-        "shape": "petit_bol"
-    },
-    {
-        "id": "forme_2_item-2",
-        "name": "petit bol 002",
-        "image": "",
-        "shape": "petit_bol"
-    },
-    {
-        "id": "forme_2_item-3",
-        "name": "petit bol 003",
-        "image": "",
-        "shape": "petit_bol"
-    },
-    {
-        "id": "forme_2_item-4",
-        "name": "petit bol 004",
-        "image": "",
-        "shape": "petit_bol"
-    },
-    {
-        "id": "forme_2_item-5",
-        "name": "petit bol 005",
-        "image": "",
-        "shape": "petit_bol"
-    },
-    {
-        "id": "forme_2_item-6",
-        "name": "petit bol 006",
-        "image": "",
-        "shape": "petit_bol"
     }
 ]

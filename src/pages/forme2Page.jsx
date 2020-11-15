@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import "../styles/forme.css";
-import itemsData from "../data/Items.json";
-// import ItemCart from '../components/ItemCart';
+import itemsData from "../data/Shape2Items.json";
+import ItemCart from '../components/ItemCart';
 
 class forme2Page extends Component {
 
@@ -15,16 +15,7 @@ class forme2Page extends Component {
             <div className="form-container">
                 <div className="title-forme">Nom de la forme 2 + dessin de la forme 2</div>
                 <div>
-                    {/* <ItemCart items={ itemsData } /> */}
-                    {this.state.items.map((item, index) => {
-                     if(item.shape === "petit_bol") {
-                        return (
-                            <div key={index}>
-                                <h4>nom : {item.name}</h4>
-                            </div>
-                        )
-                    }
-                })}
+                    <ItemCart items={ itemsData } />
                 </div>
             </div>
         )
