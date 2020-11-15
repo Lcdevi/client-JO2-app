@@ -1,4 +1,6 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
+import { Link } from "react-router-dom";
+import "../styles/itemCart.css";
 
 class ItemCart extends Component {
 
@@ -9,11 +11,26 @@ class ItemCart extends Component {
     render() {
         console.log(this.state)
         return (
-            <div>
+            <div id="item-cart-container">
                 {this.state.items.map((item, index) => (
-                <div>
-                    <h4>nom : {item.name}</h4>
-                </div>
+                // <Link to={`/${item.id}`} params={{ testvalue: "hello" }}>
+                <Link to={{
+                    pathname: `/${item.id}`,
+                    state: {
+                      item: item
+                    }
+                  }} 
+                  key={index}
+                >
+
+                    <div className="single-item-cart">
+                        <img src={item.image} alt="ceramic details"/>
+                        <div id="title-item">
+                            <h2>{item.name}</h2>
+                            <p>{item.price} €</p>
+                        </div> 
+                    </div>
+                </Link>
                 ))
                 }
             </div>

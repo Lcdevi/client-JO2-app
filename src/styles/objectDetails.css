@@ -1,0 +1,17 @@
+.object-details-container {
+    border: 1px solid red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.object-details-container .details-img-div {
+    border: 1px solid green;
+    width: 540px;
+    height: 340px;
+}
+
+.object-details-container .details-img-div img {
+    width: 540px;
+    height: 340px;
+}

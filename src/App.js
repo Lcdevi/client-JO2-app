@@ -10,6 +10,7 @@ import Contact from "./pages/Contact";
 import QuiSommesNous from "./pages/QuiSommesNous";
 import Forme1Page from "./pages/forme1Page";
 import Forme2Page from "./pages/forme2Page";
+import ObjetDetails from "./pages/ObjetDetails";
 
 // ---------------- IMPORT STYLE ----------------- //
 import './App.css';
@@ -26,6 +27,7 @@ function App() {
         <Route path="/qui-sommes-nous" component={QuiSommesNous} />
         <Route path="/forme001" component={Forme1Page} />
         <Route path="/forme002" component={Forme2Page} />
+        <Route path="/:itemId" component={ObjetDetails} />
 
       </Switch>
       <Footer />
