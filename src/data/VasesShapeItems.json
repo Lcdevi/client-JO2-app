@@ -1,0 +1,62 @@
+[
+    {
+        "id": "vase-vase_1",
+        "name": "vase 001",
+        "price": 350,
+        "reference": "megalo-001",
+        "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
+        "diameter":"60 cm",
+        "height":"90 cm",
+        "matter":"grès",
+        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452093/Jo2-website/Items/details_i3uz1v.jpg",
+        "shape": "vase"
+    },
+    {
+        "id": "vase-vase_2",
+        "name": "vase 002",
+        "price": 350,
+        "reference": "megalo-002",
+        "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
+        "diameter":"60 cm",
+        "height":"90 cm",
+        "matter":"grès",
+        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452093/Jo2-website/Items/details_i3uz1v.jpg",
+        "shape": "vase"
+    },
+    {
+        "id": "vase-vase_3",
+        "name": "vase 003",
+        "price": 350,
+        "reference": "megalo-003",
+        "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
+        "diameter":"60 cm",
+        "height":"90 cm",
+        "matter":"grès",
+        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452093/Jo2-website/Items/details_i3uz1v.jpg",
+        "shape": "vase"
+    },
+    {
+        "id": "vase-vase_4",
+        "name": "vase 004",
+        "price": 350,
+        "reference": "megalo-004",
+        "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
+        "diameter":"60 cm",
+        "height":"90 cm",
+        "matter":"grès",
+        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452093/Jo2-website/Items/details_i3uz1v.jpg",
+        "shape": "vase"
+    },
+    {
+        "id": "vase-vase_5",
+        "name": "vase 005",
+        "price": 350,
+        "reference": "megalo-005",
+        "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
+        "diameter":"60 cm",
+        "height":"90 cm",
+        "matter":"grès",
+        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452093/Jo2-website/Items/details_i3uz1v.jpg",
+        "shape": "vase"
+    }
+]

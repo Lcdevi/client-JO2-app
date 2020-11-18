@@ -1,0 +1,74 @@
+[
+    {
+        "id": "ramequin-ramequin_1",
+        "name": "ramequin 001",
+        "price": 20,
+        "reference": "picotti-001",
+        "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
+        "diameter":"12 cm",
+        "height":"15 cm",
+        "matter":"grès",
+        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452093/Jo2-website/Items/details_i3uz1v.jpg",
+        "shape": "ramequin"
+    },
+    {
+        "id": "ramequin-ramequin_2",
+        "name": "ramequin 002",
+        "price": 20,
+        "reference": "picotti-002",
+        "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
+        "diameter":"12 cm",
+        "height":"15 cm",
+        "matter":"grès",
+        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452093/Jo2-website/Items/details_i3uz1v.jpg",
+        "shape": "ramequin"
+    },
+    {
+        "id": "ramequin-ramequin_3",
+        "name": "ramequin 003",
+        "price": 20,
+        "reference": "picotti-003",
+        "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
+        "diameter":"12 cm",
+        "height":"15 cm",
+        "matter":"grès",
+        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452093/Jo2-website/Items/details_i3uz1v.jpg",
+        "shape": "ramequin"
+    },
+    {
+        "id": "ramequin-ramequin_4",
+        "name": "ramequin 004",
+        "price": 20,
+        "reference": "picotti-004",
+        "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
+        "diameter":"12 cm",
+        "height":"15 cm",
+        "matter":"grès",
+        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452093/Jo2-website/Items/details_i3uz1v.jpg",
+        "shape": "ramequin"
+    },
+    {
+        "id": "ramequin-ramequin_5",
+        "name": "ramequin 005",
+        "price": 20,
+        "reference": "picotti-005",
+        "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
+        "diameter":"12 cm",
+        "height":"15 cm",
+        "matter":"grès",
+        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452093/Jo2-website/Items/details_i3uz1v.jpg",
+        "shape": "ramequin"
+    },
+    {
+        "id": "ramequin-ramequin_6",
+        "name": "ramequin 006",
+        "price": 20,
+        "reference": "picotti-006",
+        "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
+        "diameter":"12 cm",
+        "height":"15 cm",
+        "matter":"grès",
+        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452093/Jo2-website/Items/details_i3uz1v.jpg",
+        "shape": "ramequin"
+    }
+]

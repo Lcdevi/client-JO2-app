@@ -7,6 +7,13 @@
     padding: 20px 0;
 }
 
+#cat-container {
+    /* border: 2px solid green; */
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 0 8vw;
+}
+
 #topito {
     border-bottom: 1px solid #1800A8;
     padding: 12px 0;
@@ -17,12 +24,6 @@
     border-bottom: 1px solid #1800A8;
 }
 
-#cat-container {
-    /* border: 2px solid green; */
-    display: grid;
-    grid-template-columns: 33.33% 33.33% 33.33%;
-    margin: 0 8vw;
-}
 
 #cat-container h2 {
     font-size: 18px;

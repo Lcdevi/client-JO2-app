@@ -8,8 +8,10 @@ import Home from "./pages/Home";
 import Collections from "./pages/Collections";
 import Contact from "./pages/Contact";
 import QuiSommesNous from "./pages/QuiSommesNous";
-import Forme1Page from "./pages/forme1Page";
-import Forme2Page from "./pages/forme2Page";
+import tassePage from "./pages/PageTasse";
+import bolPage from "./pages/PageBol";
+import vasePage from "./pages/PageVase";
+import ramequinPage from "./pages/PageRamequin";
 import ObjetDetails from "./pages/ObjetDetails";
 
 
@@ -26,8 +28,10 @@ function App() {
         <Route path="/collections" component={Collections} />
         <Route path="/contact" component={Contact} />
         <Route path="/qui-sommes-nous" component={QuiSommesNous} />
-        <Route path="/forme001" component={Forme1Page} />
-        <Route path="/forme002" component={Forme2Page} />
+        <Route path="/tasses" component={tassePage} />
+        <Route path="/bols" component={bolPage} />
+        <Route path="/vases" component={vasePage} />
+        <Route path="/ramequins" component={ramequinPage} />
         <Route path="/:itemId" component={ObjetDetails} />
 
       </Switch>

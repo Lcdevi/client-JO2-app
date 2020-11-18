@@ -3,7 +3,7 @@ import "../styles/forme.css";
 import itemsData from "../data/Shape2Items.json";
 import ItemCart from '../components/ItemCart';
 
-class forme2Page extends Component {
+class PageBol extends Component {
 
     state = {
         items: itemsData,
@@ -22,4 +22,4 @@ class forme2Page extends Component {
     }
 }
 
-export default forme2Page
+export default PageBol

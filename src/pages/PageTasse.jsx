@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import "../styles/forme.css";
-import itemsData from "../data/Shape1Items.json";
+import itemsData from "../data/TassesShapeItems.json";
 import ItemCart from '../components/ItemCart';
 import LesVasesImg from '../images/les-vases.jpg';
 
-class formPage extends Component {
+class PageTasse extends Component {
 
     state = {
         items: itemsData,
@@ -25,4 +25,4 @@ class formPage extends Component {
     }
 }
 
-export default formPage
+export default PageTasse
