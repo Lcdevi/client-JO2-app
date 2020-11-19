@@ -11,9 +11,9 @@
 }
 
 .framed-home {
-    border: 2px solid #1800A8;
+    border: 2px solid var(--blue);
     display: flex;
-    color: #1800A8;
+    color: var(--blue);
     position: absolute;
     bottom: 32px;
     right: 32px;
@@ -45,7 +45,7 @@
 }
 
 #decouvrir-btn {
-    border-bottom: 1px solid #1800A8;
+    border-bottom: 1px solid var(--blue);
     margin-top: 14px;
     padding-bottom: 8px;
     width: 95px;

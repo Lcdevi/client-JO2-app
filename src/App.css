@@ -1,3 +1,18 @@
+html {
+  --blue: #1800A8;
+  --light-pink: #fff9e5;
+}
+
+button {
+	background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
 .App {
   text-align: center;
 }

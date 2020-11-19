@@ -1,6 +1,6 @@
 footer {
-    background-color: #ffffd9;
-    color: #1800A8;
+    background-color: var(--light-pink);
+    color: var(--blue);
 }
 
 footer ul {

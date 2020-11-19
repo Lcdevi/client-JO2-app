@@ -1,5 +1,5 @@
 #collections-page h1 {
-    color: #1800A8;
+    color: var(--blue);
     margin: 50px;
 }
 

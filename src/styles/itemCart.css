@@ -19,7 +19,7 @@
     /* border: 1px solid red; */
     width: 440px;
     height: 300px;
-    border-bottom: 1px solid #1800A8;
+    border-bottom: 1px solid var(--blue);
 }
 
 #item-cart-container #title-item {
@@ -27,15 +27,15 @@
     display: flex;
     justify-content: space-between;
     padding: 14px 0;
-    border-bottom: 1px solid #1800A8;
+    border-bottom: 1px solid var(--blue);
 }
 
 #item-cart-container h2 {
     font-size: 18px;
-    color: #1800A8;
+    color: var(--blue);
 }
 
 #item-cart-container p {
     font-size: 18px;
-    color: #1800A8;
+    color: var(--blue);
 }

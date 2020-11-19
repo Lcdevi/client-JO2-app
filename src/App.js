@@ -19,6 +19,7 @@ import ObjetDetails from "./pages/ObjetDetails";
 import './App.css';
 
 function App() {
+
   return (
     <div>
       <NavBar />

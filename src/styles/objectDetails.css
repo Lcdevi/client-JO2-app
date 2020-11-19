@@ -1,17 +1,83 @@
 .object-details-container {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin: 80px 0;
 }
 
 .object-details-container .details-img-div {
-    border: 1px solid green;
-    width: 340px;
-    height: 340px;
+    /* border: 1px solid green; */
+    width: 370px;
+    height: 370px;
 }
 
 .object-details-container .details-img-div img {
-    width: 340px;
-    height: 340px;
+    width: 370px;
+    height: 370px;
+}
+
+.object-details-container .details-infos-div {
+    border: 1px solid var(--blue);
+    width: 370px;
+    height: 370px;
+    padding: 40px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.object-details-container .title-price-wrapper {
+    /* border: 1px solid yellow; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.object-details-container .title-price {
+    /* border: 1px solid red; */
+
+}
+
+.object-details-container .price {
+    /* border: 1px solid green; */
+    color: var(--blue);
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.object-details-container h1 {
+    font-size: 26px;
+}
+
+.object-details-container h2 {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.object-details-container h3 {
+    font-size: 16px;
+    border-bottom: 1px solid black;
+    padding-bottom: 4px;
+    margin-bottom: 14px;
+}
+
+.caracteristique {
+    display: flex;
+}
+
+.details-infos-div p {
+    line-height: 24px;
+    font-size: 14px;
+}
+
+.details-infos-div p span {
+    font-weight: bold;
+    margin-right: 12px;
+}
+
+.object-details-container button {
+    color: white;
+    background-color: var(--blue);
+    padding: 12px 0;
+    width: 180px;
 }

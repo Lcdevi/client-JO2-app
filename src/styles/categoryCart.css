@@ -15,13 +15,13 @@
 }
 
 #topito {
-    border-bottom: 1px solid #1800A8;
+    border-bottom: 1px solid var(--blue);
     padding: 12px 0;
 }
 
 #cat-cart-container img {
     width: 90%;
-    border-bottom: 1px solid #1800A8;
+    border-bottom: 1px solid var(--blue);
 }
 
 

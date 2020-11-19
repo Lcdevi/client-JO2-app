@@ -6,8 +6,8 @@
     justify-content: space-between;
     height: 80px;
     /* background: linear-gradient(#fCD200, #ffffa3); */
-    background-color: #ffffd9 ;
-    color: #1800A8;
+    background-color: var(--light-pink);
+    color: var(--blue);
     font-size: 14px;
     align-items: center;
 }
@@ -21,14 +21,14 @@
 }
 
 .nav ul li {
-    border-bottom: 1px solid #1800A8;
+    border-bottom: 1px solid var(--blue);
     padding-bottom: 8px;
 }
 
 #jo2-home {
     margin: 0 0 0 70px;
     font-size: 20px;
-    border-bottom: 2px solid #1800A8;
+    border-bottom: 2px solid var(--blue);
     padding-bottom: 8px;
 }
 
@@ -42,5 +42,5 @@
 .social-logo {
     width: 20px;
     height: 20px;
-    background-color: #1800A8;
+    background-color: var(--blue);
 }

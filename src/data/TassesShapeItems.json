@@ -1,32 +1,32 @@
 [
     {
         "id": "tasse-tasse_1",
-        "name": "grand bol 001",
+        "name": "grande tasse 001",
         "price": 70,
         "reference": "pico-001",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
         "diameter":"45 cm",
         "height":"56 cm",
         "matter":"grès",
-        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452093/Jo2-website/Items/details_i3uz1v.jpg",
+        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452347/Jo2-website/Items/details2_rcslrk.jpg",
         "imageDetails": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605728339/Jo2-website/Items/DSC03242_p0m03y.jpg",
         "shape": "tasse"
     },
     {
         "id": "tasse-tasse_2",
-        "name": "grand bol 002",
+        "name": "grande tasse 002",
         "price": 70,
         "reference": "pcio-002",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
         "diameter":"45 cm",
         "height":"56 cm",
         "matter":"grès",
-        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605295479/Jo2-website/Categories/DSC03271_y1aon4.jpg",
+        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452347/Jo2-website/Items/details2_rcslrk.jpg",
         "shape": "tasse"
     },
     {
         "id": "tasse-tasse_3",
-        "name": "grand bol 003",
+        "name": "grande tasse 003",
         "price": 70,
         "reference": "pico-003",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -38,38 +38,38 @@
     },
     {
         "id": "tasse-tasse_4",
-        "name": "grand bol 004",
+        "name": "grande tasse 004",
         "price": 70,
         "reference": "pico-004",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
         "diameter":"45 cm",
         "height":"56 cm",
         "matter":"grès",
-        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452453/Jo2-website/Items/details3_vdxmcn.jpg",
+        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452347/Jo2-website/Items/details2_rcslrk.jpg",
         "shape": "tasse"
     },
     {
         "id": "tasse-tasse_5",
-        "name": "grand bol 005",
+        "name": "grande tasse 005",
         "price": 70,
         "reference": "pico-005",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
         "diameter":"45 cm",
         "height":"56 cm",
         "matter":"grès",
-        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452453/Jo2-website/Items/details3_vdxmcn.jpg",
+        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452347/Jo2-website/Items/details2_rcslrk.jpg",
         "shape": "tasse"
     },
     {
         "id": "tasse-tasse_6",
-        "name": "grand bol 006",
+        "name": "grande tasse 006",
         "price": 70,
         "reference": "pico-006",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
         "diameter":"45 cm",
         "height":"56 cm",
         "matter":"grès",
-        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452453/Jo2-website/Items/details3_vdxmcn.jpg",
+        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452347/Jo2-website/Items/details2_rcslrk.jpg",
         "shape": "tasse"
     }
 ]
