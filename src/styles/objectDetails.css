@@ -15,6 +15,7 @@
 .object-details-container .details-img-div img {
     width: 370px;
     height: 370px;
+    object-fit: cover;
 }
 
 .object-details-container .details-infos-div {

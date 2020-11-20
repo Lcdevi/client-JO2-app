@@ -11,7 +11,7 @@
     /* border: 2px solid green; */
     display: grid;
     grid-template-columns: 50% 50%;
-    margin: 0 8vw;
+    margin: 40px 8vw 0 8vw;
 }
 
 #topito {

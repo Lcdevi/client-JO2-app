@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import "../styles/forme.css";
 import itemsData from "../data/TassesShapeItems.json";
 import ItemCart from '../components/ItemCart';
-import LesVasesImg from '../images/les-vases.jpg';
+import TassesImg from '../images/tasses.png';
 
 class PageTasse extends Component {
 
@@ -16,7 +16,7 @@ class PageTasse extends Component {
         return (
             <div className="form-container">
                 {/* <div className="title-forme">Nom de la forme 1 + dessin de la forme 1</div> */}
-                <img src={LesVasesImg} alt="bandeau les vases titre"/>
+                <img src={TassesImg} alt="tasse noir et blanc"/>
                 <div>
                     <ItemCart items={ itemsData } />
                 </div>

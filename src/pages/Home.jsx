@@ -6,8 +6,8 @@ import '../styles/home.css';
 const Home = () => {
     return (
         <div id='main-home-div'>
-            <div id="home-image-and-infos">
-                <img src={homeImage} alt="ceramic's bowls and mugs"/>
+            {/* <div id="home-image-and-infos"> */}
+                {/* <img src={homeImage} alt="ceramic's bowls and mugs"/> */}
                 <div className="framed-home">
                     <div id="infos-title">
                         <h2>LA NOUVELLE COLLECTION EST SORTIE DES FOURS!</h2>
@@ -19,7 +19,7 @@ const Home = () => {
                         </div>
                     </div>
                 </div>
-           </div>
+           {/* </div> */}
         </div>
     )
 }

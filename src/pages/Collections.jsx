@@ -2,6 +2,8 @@ import React from 'react';
 import "../styles/collections.css";
 import CategoriesData from "../data/Categories.json";
 import CategoryCart from "../components/CategoryCart";
+import LesFormesImg from '../images/les-formes.png';
+
 
 
 class Collections extends React.Component {
@@ -14,7 +16,7 @@ class Collections extends React.Component {
         console.log(this.state)
         return (
             <div id="collections-page">
-                <h1>LES FORMES</h1>
+                <img src={LesFormesImg} alt="formes de poteries céramiques"/>
                 <CategoryCart categories={ CategoriesData }/>
             </div>
         )

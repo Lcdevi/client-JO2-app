@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
-import "../styles/objectDetails.css"
+import "../styles/objectDetails.css";
+import {Link} from 'react-router-dom';
+
 
 class ObjetDetails extends Component {
 
@@ -12,7 +14,6 @@ class ObjetDetails extends Component {
 
         // console.log(this.state.item.location.state.item)
         console.log(this.state)
-
         return (
             <div className="object-details-container">
                 <div className="details-img-div"><img src={this.state.item.location.state.item.imageDetails} alt=""/></div>
@@ -40,6 +41,9 @@ class ObjetDetails extends Component {
                     </div>
                     <button>CONTACTEZ NOUS</button>
                 </div>
+                <Link to={this.state.item.history.location.state.previousPath}>
+                <button>retour</button>
+                </Link>
             </div>
         )
     }

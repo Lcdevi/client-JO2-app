@@ -10,6 +10,7 @@ class ItemCart extends Component {
 
     render() {
         console.log(this.state)
+        console.log(window.location.pathname)
         return (
             <div id="item-cart-container">
                 {this.state.items.map((item, index) => (
@@ -17,7 +18,8 @@ class ItemCart extends Component {
                 <Link to={{
                     pathname: `/${item.id}`,
                     state: {
-                      item: item
+                      item: item,
+                      previousPath: window.location.pathname
                     }
                   }} 
                   key={index}
