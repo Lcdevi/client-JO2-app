@@ -21,15 +21,27 @@
 }
 
 .nav ul li {
-    border-bottom: 1px solid var(--blue);
+    border-bottom: 1px solid var(--light-pink);
     padding-bottom: 8px;
+    transition-property: border-bottom;
+    transition-duration: 1s;
+}
+
+.nav ul li:hover {
+    border-bottom: 1px solid var(--blue);
 }
 
 #jo2-home {
     margin: 0 0 0 70px;
     font-size: 20px;
-    border-bottom: 2px solid var(--blue);
+    border-bottom: 2px solid var(--light-pink);
     padding-bottom: 8px;
+    transition-property: border-bottom;
+    transition-duration: 1s;
+}
+
+#jo2-home:hover {
+    border-bottom: 2px solid var(--blue);
 }
 
 #social-div {
@@ -43,4 +55,16 @@
     width: 20px;
     height: 20px;
     background-color: var(--blue);
+}
+
+#social-div img {
+    width: 20px;
+    height: 20px;
+    /* transition-property: border-bottom; */
+    transition: transform;
+    transition-duration: 0.5s;
+}
+
+#social-div img:hover {
+    transform: scale(1.1);
 }

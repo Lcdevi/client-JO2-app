@@ -25,12 +25,15 @@ class ItemCart extends Component {
                   key={index}
                 >
 
-                    <div className="single-item-cart">
+                    <div className="single-item-cart parent">
                         <img src={item.image} alt="ceramic details"/>
                         <div id="title-item">
                             <h2>{item.name}</h2>
                             <p>{item.price} €</p>
                         </div> 
+                        <div className="enfant">
+                            <div className="plus-d-infos">plus d'infos</div>
+                        </div>
                     </div>
                 </Link>
                 ))

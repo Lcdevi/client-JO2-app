@@ -1,6 +1,7 @@
 import React from 'react';
 import {NavLink} from 'react-router-dom';
 import "../styles/navbar.css";
+import instagramImg from "../images/instagram-brands.svg";
 
 const NavBar = () => {
     return (
@@ -12,7 +13,7 @@ const NavBar = () => {
                     <NavLink to="/contact"><li>Contact</li></NavLink>
                 </ul>
                 <div id="social-div">
-                    <a href="https://www.instagram.com/jojodaviau/" target="_blank" rel="noreferrer"><div className="social-logo"></div></a>
+                    <a href="https://www.instagram.com/jocarreceramics/" target="_blank" rel="noreferrer"><img src={instagramImg} alt="instagram logo"/></a>
                     <a href="https://www.facebook.com/Jonathan2Stab/" target="_blank" rel="noreferrer"><div className="social-logo"></div></a>
                 </div>
             </nav>

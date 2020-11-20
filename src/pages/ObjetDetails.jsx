@@ -16,10 +16,7 @@ class ObjetDetails extends Component {
         console.log(this.state)
         return (
             <div className="object-details-container">
-                <div className="details-img-div"><img src={this.state.item.location.state.item.imageDetails} alt=""/></div>
-                <div className="details-img-div"><img src={this.state.item.location.state.item.imageDetails} alt=""/></div>
-                <div className="details-img-div"><img src={this.state.item.location.state.item.imageDetails} alt=""/></div>
-                <div className="details-img-div"><img src={this.state.item.location.state.item.imageDetails} alt=""/></div>
+                <div className="clone">
                 <div className="details-img-div"><img src={this.state.item.location.state.item.imageDetails} alt=""/></div>
                 <div className="details-infos-div">
                     <div className="title-price-wrapper">
@@ -39,8 +36,16 @@ class ObjetDetails extends Component {
                         <p><span>hauteur</span> {this.state.item.location.state.item.height} </p>
                         <p><span>matière</span> {this.state.item.location.state.item.matter} </p>
                     </div>
-                    <button>CONTACTEZ NOUS</button>
+                    <Link to="/contact">
+                        <button>CONTACTEZ NOUS</button>
+                    </Link>
                 </div>
+                <div className="details-img-div"><img src={this.state.item.location.state.item.imageDetails} alt=""/></div>
+                <div className="details-img-div"><img src={this.state.item.location.state.item.imageDetails} alt=""/></div>
+                <div className="details-img-div"><img src={this.state.item.location.state.item.imageDetails} alt=""/></div>
+                <div className="details-img-div"><img src={this.state.item.location.state.item.imageDetails} alt=""/></div>
+                </div>
+
                 <Link to={this.state.item.history.location.state.previousPath}>
                 <button>retour</button>
                 </Link>

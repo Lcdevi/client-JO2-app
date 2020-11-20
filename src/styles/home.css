@@ -57,8 +57,14 @@
 
 #decouvrir-btn {
     border-bottom: 1px solid var(--blue);
-    margin-top: 14px;
     padding-bottom: 8px;
+    padding-top: 8px;
     width: 95px;
     font-weight: bold;
+    transition-property: border-bottom;
+    transition-duration: 0.5s;
+}
+
+#decouvrir-btn:hover {
+    border-bottom: 1px solid rgba(245,245,245, 0);
 }
