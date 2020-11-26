@@ -16,14 +16,22 @@ footer ul {
 }
 
 footer ul li {
-    margin: 20px;
-    padding-bottom: 4px;
-    border-bottom: 1px solid var(--light-pink);
-    transition-property: border-bottom;
-    transition-duration: 0.5s;
+    margin: 14px;
     cursor: pointer;
+    position: relative;
 }
 
-footer ul li:hover {
-    border-bottom: 1px solid var(--blue);
+footer ul li::after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 0%;
+    height: 1px;
+    margin-top: 4px;
+    background-color: white;
+    transition: 0.8s ease;
+}
+
+footer ul li:hover::after {
+    width: 100%;
 }
