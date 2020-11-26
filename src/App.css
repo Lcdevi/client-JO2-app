@@ -1,13 +1,27 @@
-* {
+*, ::after, ::before {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
+*:focus,*:hover {
+  outline: none;
+}
+
 html {
   --blue: #1800A8;
   --light-pink: #fff9e5;
+  height: 100%;
 }
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  /* border: 3px solid red; */
+  position: relative;
+}
+
 
 button {
 	background: none;
@@ -19,7 +33,11 @@ button {
 	outline: inherit;
 }
 
-.App {
+#main-main-main {
+  /* height: 100vh; */
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -56,4 +74,4 @@ button {
   to {
     transform: rotate(360deg);
   }
-}
+} */

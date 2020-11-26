@@ -17,7 +17,6 @@ class ObjetDetails extends Component {
         return (
             <div className="object-details-container">
                 <div className="clone">
-                <div className="details-img-div"><img src={this.state.item.location.state.item.imageDetails} alt=""/></div>
                 <div className="details-infos-div">
                     <div className="title-price-wrapper">
                         <div className="title-price">
@@ -40,10 +39,11 @@ class ObjetDetails extends Component {
                         <button>CONTACTEZ NOUS</button>
                     </Link>
                 </div>
-                <div className="details-img-div"><img src={this.state.item.location.state.item.imageDetails} alt=""/></div>
-                <div className="details-img-div"><img src={this.state.item.location.state.item.imageDetails} alt=""/></div>
-                <div className="details-img-div"><img src={this.state.item.location.state.item.imageDetails} alt=""/></div>
-                <div className="details-img-div"><img src={this.state.item.location.state.item.imageDetails} alt=""/></div>
+                <div className="details-img-div"><img src={this.state.item.location.state.item.image} alt="tasse en porcelaine gravée"/></div>
+                <div className="details-img-div"><img src={this.state.item.location.state.item.imageDetails2} alt="tasse en porcelaine gravée"/></div>
+                <div className="details-img-div"><img src={this.state.item.location.state.item.imageDetails3} alt="tasse en porcelaine gravée"/></div>
+                <div className="details-img-div"><img src={this.state.item.location.state.item.imageDetails4} alt="tasse en porcelaine gravée"/></div>
+                <div className="details-img-div"><img src={this.state.item.location.state.item.imageDetails5} alt="tasse en porcelaine gravée"/></div>
                 </div>
 
                 <Link to={this.state.item.history.location.state.previousPath}>
