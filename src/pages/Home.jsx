@@ -6,6 +6,7 @@ import '../styles/home.css';
 const Home = () => {
     return (
         <div id='main-home-div'>
+
             {/* <div id="home-image-and-infos"> */}
                 {/* <img src={homeImage} alt="ceramic's bowls and mugs"/> */}
                 <div className="framed-home">

@@ -1,50 +1,18 @@
 [
     {
-        "id": "forme_2_item-1",
-        "name": "petit bol 001",
-        "price": 35,
-        "reference": "PB-001",
-        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452347/Jo2-website/Items/details2_rcslrk.jpg",
-        "shape": "petit_bol"
-    },
-    {
-        "id": "forme_2_item-2",
-        "name": "petit bol 002",
-        "price": 35,
-        "reference": "PB-002",
-        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452347/Jo2-website/Items/details2_rcslrk.jpg",
-        "shape": "petit_bol"
-    },
-    {
-        "id": "forme_2_item-3",
-        "name": "petit bol 003",
-        "price": 35,
-        "reference": "PB-003",
-        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452347/Jo2-website/Items/details2_rcslrk.jpg",
-        "shape": "petit_bol"
-    },
-    {
-        "id": "forme_2_item-4",
-        "name": "petit bol 004",
-        "price": 35,
-        "reference": "PB-004",
-        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452347/Jo2-website/Items/details2_rcslrk.jpg",
-        "shape": "petit_bol"
-    },
-    {
-        "id": "forme_2_item-5",
-        "name": "petit bol 005",
-        "price": 35,
-        "reference": "PB-005",
-        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452347/Jo2-website/Items/details2_rcslrk.jpg",
-        "shape": "petit_bol"
-    },
-    {
-        "id": "forme_2_item-6",
-        "name": "petit bol 006",
-        "price": 35,
-        "reference": "PB-006",
-        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605452347/Jo2-website/Items/details2_rcslrk.jpg",
-        "shape": "petit_bol"
+        "id": "tasse-pico_01",
+        "name": "tasse pico 001",
+        "price": 30,
+        "reference": "pico-001",
+        "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
+        "diameter":"6 cm",
+        "height":"7 cm",
+        "matter":"porcelaine",
+        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606416255/Jo2-website/Items/Pico/pico001-1_f0vmhv.jpg",
+        "imageDetails2": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606416245/Jo2-website/Items/Pico/pico001-2_e89zzy.jpg",
+        "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606416247/Jo2-website/Items/Pico/pico001-3_ievod6.jpg",
+        "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606416249/Jo2-website/Items/Pico/pico001-4_qdtyvc.jpg",
+        "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606416284/Jo2-website/Items/Pico/pico001-5_nt8j1j.jpg",
+        "shape": "tasse"
     }
 ]

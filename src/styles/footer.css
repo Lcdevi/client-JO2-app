@@ -1,6 +1,7 @@
 footer {
-    background-color: var(--light-pink);
-    color: var(--blue);
+    border-top: 1px dashed var(--blue);
+    background-color: var(--blue);
+    color: var(--light-pink);
     position: absolute;
     bottom: 0;
     left: 0;

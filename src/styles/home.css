@@ -1,7 +1,5 @@
 #main-home-div {
     /* border: 2px solid yellow; */
-    /* display: flex; */
-    /* justify-content: center; */
     background-image: url("../images/img-home.JPG");
     background-size: cover;
     background-repeat: no-repeat;
@@ -67,4 +65,9 @@
 
 #decouvrir-btn:hover {
     border-bottom: 1px solid rgba(245,245,245, 0);
+}
+
+#main-home-photo {
+    height: 600px;
+    width: 100%;
 }

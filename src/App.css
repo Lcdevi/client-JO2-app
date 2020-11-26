@@ -9,8 +9,9 @@
 }
 
 html {
-  --blue: #1800A8;
-  --light-pink: #fff9e5;
+  /* --blue: #1800A8; */
+  --blue: #5d6d60;
+  --light-pink: #fffcf4;
   height: 100%;
 }
 
