@@ -65,7 +65,7 @@
     },
     {
         "id": "tasse-pico_05",
-        "name": "Road trip",
+        "name": "Fascination pour l'olivier",
         "price": 30,
         "reference": "pico-005",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -81,7 +81,7 @@
     },
     {
         "id": "tasse-pico_06",
-        "name": "Road trip",
+        "name": "Nouvelle Technique",
         "price": 30,
         "reference": "pico-006",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -97,7 +97,7 @@
     },
     {
         "id": "tasse-pico_07",
-        "name": "Road trip",
+        "name": "Collocation",
         "price": 30,
         "reference": "pico-007",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -129,7 +129,7 @@
     },
     {
         "id": "tasse-pico_09",
-        "name": "Road trip",
+        "name": "Le message",
         "price": 30,
         "reference": "pico-009",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -145,7 +145,7 @@
     },
     {
         "id": "tasse-pico_10",
-        "name": "Road trip",
+        "name": "L'arbre aux calebasses",
         "price": 30,
         "reference": "pico-010",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -161,7 +161,7 @@
     },
     {
         "id": "tasse-pico_11",
-        "name": "Road trip",
+        "name": "La Dame de la maison",
         "price": 30,
         "reference": "pico-011",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -177,7 +177,7 @@
     },
     {
         "id": "tasse-pico_12",
-        "name": "Road trip",
+        "name": "Les Appétisseurs",
         "price": 30,
         "reference": "pico-012",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -257,7 +257,7 @@
     },
     {
         "id": "tasse-pico_17",
-        "name": "Road trip",
+        "name": "Le petit grand frère",
         "price": 30,
         "reference": "pico-017",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -273,7 +273,7 @@
     },
     {
         "id": "tasse-pico_18",
-        "name": "Road trip",
+        "name": "Les Ridées",
         "price": 30,
         "reference": "pico-018",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -289,7 +289,7 @@
     },
     {
         "id": "tasse-pico_19",
-        "name": "Road trip",
+        "name": "Ça vallait quand même le coup",
         "price": 30,
         "reference": "pico-019",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -305,7 +305,7 @@
     },
     {
         "id": "tasse-pico_20",
-        "name": "Road trip",
+        "name": "Le solitaire",
         "price": 30,
         "reference": "pico-020",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -321,7 +321,7 @@
     },
     {
         "id": "tasse-pico_21",
-        "name": "Road",
+        "name": "Grimace",
         "price": 30,
         "reference": "pico-021",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -385,7 +385,7 @@
     },
     {
         "id": "tasse-pico_25",
-        "name": "Road",
+        "name": "Randonnée canine",
         "price": 30,
         "reference": "pico-025",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -401,7 +401,7 @@
     },
     {
         "id": "tasse-pico_26",
-        "name": "Road",
+        "name": "Le Roi Singe",
         "price": 30,
         "reference": "pico-026",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -417,7 +417,7 @@
     },
     {
         "id": "tasse-pico_27",
-        "name": "Road",
+        "name": "Croisière sur la Chao Phraya",
         "price": 30,
         "reference": "pico-027",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -433,7 +433,7 @@
     },
     {
         "id": "tasse-pico_28",
-        "name": "Road",
+        "name": "Déplacement Bref",
         "price": 30,
         "reference": "pico-028",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",

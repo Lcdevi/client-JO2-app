@@ -8,7 +8,7 @@ const Footer = () => {
             <ul>
                 <li>CGV</li>
                 <li>Web: Laura Caillaux</li>
-                <li> <img src={copyright} alt="copyright white logo"/> Jonathan Stab</li>
+                <li> <img src={copyright} alt="copyright white logo"/> Laura Caillaux</li>
                 <li>2020</li>
             </ul>
         </footer>

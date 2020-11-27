@@ -51,7 +51,7 @@ class Contact extends Component {
               <p>sujet</p>
               {/* <input type="text" name="subject" id="" placeholder="sujet"/> */}
               <select name="subject" id="">
-                <option value="">sujet</option>
+                <option value="">choisissez un sujet</option>
                 <option value="reservation">reservation pièce</option>
                 <option value="question">question</option>
                 <option value="autre">autre</option>

@@ -1,7 +1,7 @@
 [
     {
         "id": "tasse-nano_1",
-        "name": "tasse nano 001",
+        "name": "Troupeau Nord",
         "price": 35,
         "reference": "nano-001",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -17,7 +17,7 @@
     },
     {
         "id": "tasse-nano_2",
-        "name": "tasse nano 002",
+        "name": "La Tapissière",
         "price": 35,
         "reference": "nano-002",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -33,7 +33,7 @@
     },
     {
         "id": "tasse-nano_3",
-        "name": "tasse nano 003",
+        "name": "Troupeau Est",
         "price": 35,
         "reference": "nano-003",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -49,7 +49,7 @@
     },
     {
         "id": "tasse-nano_4",
-        "name": "tasse nano 004",
+        "name": "Troupeau Sud",
         "price": 35,
         "reference": "nano-004",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -65,7 +65,7 @@
     },
     {
         "id": "tasse-nano_5",
-        "name": "tasse nano 005",
+        "name": "Troupeau Ouest",
         "price": 35,
         "reference": "nano-005",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -81,7 +81,7 @@
     },
     {
         "id": "tasse-nano_6",
-        "name": "tasse nano 006",
+        "name": "Traversée des Alpes",
         "price": 35,
         "reference": "nano-006",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -97,7 +97,7 @@
     },
     {
         "id": "tasse-nano_7",
-        "name": "tasse nano 007",
+        "name": "Traversée du Jura",
         "price": 35,
         "reference": "nano-007",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -113,7 +113,7 @@
     },
     {
         "id": "tasse-nano_8",
-        "name": "tasse nano 008",
+        "name": "Traversée des Vosges",
         "price": 35,
         "reference": "nano-008",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -129,7 +129,7 @@
     },
     {
         "id": "tasse-nano_9",
-        "name": "tasse nano 009",
+        "name": "Le Vieux Jardinier",
         "price": 35,
         "reference": "nano-009",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -145,7 +145,7 @@
     },
     {
         "id": "tasse-nano_10",
-        "name": "tasse nano 010",
+        "name": "Traversée du Désert de Gobi",
         "price": 35,
         "reference": "nano-010",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -161,7 +161,7 @@
     },
     {
         "id": "tasse-nano_11",
-        "name": "tasse nano 011",
+        "name": "Traversée de l'Oural",
         "price": 35,
         "reference": "nano-011",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -177,7 +177,7 @@
     },
     {
         "id": "tasse-nano_12",
-        "name": "tasse nano 012",
+        "name": "Traversée des Pyrénées",
         "price": 35,
         "reference": "nano-012",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -193,7 +193,7 @@
     },
     {
         "id": "tasse-nano_13",
-        "name": "tasse nano 013",
+        "name": "Tour du Lac Baïkal",
         "price": 35,
         "reference": "nano-013",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -209,7 +209,7 @@
     },
     {
         "id": "tasse-nano_14",
-        "name": "tasse nano 014",
+        "name": "Traversée de l'Atlas",
         "price": 35,
         "reference": "nano-014",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -225,7 +225,7 @@
     },
     {
         "id": "tasse-nano_15",
-        "name": "tasse nano 015",
+        "name": "Tour du Lac Qinghai",
         "price": 35,
         "reference": "nano-015",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -241,7 +241,7 @@
     },
     {
         "id": "tasse-nano_16",
-        "name": "tasse nano 016",
+        "name": "Traversée de l'Himalaya",
         "price": 35,
         "reference": "nano-016",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -257,7 +257,7 @@
     },
     {
         "id": "tasse-nano_17",
-        "name": "tasse nano 017",
+        "name": "Traversée de la Sibérie",
         "price": 35,
         "reference": "nano-017",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -273,7 +273,7 @@
     },
     {
         "id": "tasse-nano_18",
-        "name": "tasse nano 018",
+        "name": "Tour de la Méditerranée",
         "price": 35,
         "reference": "nano-018",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -289,7 +289,7 @@
     },
     {
         "id": "tasse-nano_19",
-        "name": "tasse nano 019",
+        "name": "Traversée de Buenos-Aires",
         "price": 35,
         "reference": "nano-019",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -305,7 +305,7 @@
     },
     {
         "id": "tasse-nano_20",
-        "name": "tasse nano 020",
+        "name": "Coup de Bol",
         "price": 35,
         "reference": "nano-020",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -337,7 +337,7 @@
     },
     {
         "id": "tasse-nano_22",
-        "name": "tasse nano 022",
+        "name": "Troupeau d'extrême-orient",
         "price": 35,
         "reference": "nano-022",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -353,7 +353,7 @@
     },
     {
         "id": "tasse-nano_23",
-        "name": "tasse nano 023",
+        "name": "Troupeau d'extrême-occident",
         "price": 35,
         "reference": "nano-023",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -369,7 +369,7 @@
     },
     {
         "id": "tasse-nano_24",
-        "name": "tasse nano 024",
+        "name": "Troupeau d'extrême-méridion",
         "price": 35,
         "reference": "nano-024",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -385,7 +385,7 @@
     },
     {
         "id": "tasse-nano_25",
-        "name": "tasse nano 025",
+        "name": "Troupeau d'extrême-septentrion",
         "price": 35,
         "reference": "nano-025",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -401,7 +401,7 @@
     },
     {
         "id": "tasse-nano_26",
-        "name": "tasse nano 026",
+        "name": "Service !",
         "price": 35,
         "reference": "nano-026",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -417,7 +417,7 @@
     },
     {
         "id": "tasse-nano_27",
-        "name": "tasse nano 027",
+        "name": "Traversée des Appalaches",
         "price": 35,
         "reference": "nano-027",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -433,7 +433,7 @@
     },
     {
         "id": "tasse-nano_28",
-        "name": "tasse nano 028",
+        "name": "Traversée des Monts Outeniqua",
         "price": 35,
         "reference": "nano-028",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -449,7 +449,7 @@
     },
     {
         "id": "tasse-nano_29",
-        "name": "tasse nano 029",
+        "name": "L'Odyssée du Dandy",
         "price": 35,
         "reference": "nano-029",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -465,7 +465,7 @@
     },
     {
         "id": "tasse-nano_30",
-        "name": "tasse nano 030",
+        "name": "Troupeau des Falaises",
         "price": 35,
         "reference": "nano-030",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -481,7 +481,7 @@
     },
     {
         "id": "tasse-nano_31",
-        "name": "tasse nano 031",
+        "name": "Troupeau des Hauts Plateaux",
         "price": 35,
         "reference": "nano-031",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
@@ -497,7 +497,7 @@
     },
     {
         "id": "tasse-nano_32",
-        "name": "tasse nano 032",
+        "name": "Troupeau de la Grande Vallée",
         "price": 35,
         "reference": "nano-032",
         "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
