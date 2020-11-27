@@ -10,7 +10,6 @@ class PageTasse extends Component {
     state = {
         items: itemsData,
         categories: this.props.categories,
-        cat: this.props
     }
 
     render() {
@@ -23,7 +22,7 @@ class PageTasse extends Component {
                     <ItemCart items={ itemsData } />
                 </div>
 
-                <Link to={this.state.cat.history.location.state.previousPath}>
+                <Link to="/collections">
                     <button>retour</button>
                 </Link>
             </div>
