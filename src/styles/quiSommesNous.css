@@ -8,6 +8,8 @@
 
 #quisommesnous-main-container h1 {
     color: var(--blue);
+    text-transform: uppercase;
+    margin: 15px 0 0 0;
 }
 
 .quisommesnous-bloc {

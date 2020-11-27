@@ -39,6 +39,13 @@ form input {
     border: 1px solid var(--blue);
 }
 
+form select {
+    width: 200px;
+    height: 40px;
+    padding: 10px;
+    border: 1px solid var(--blue);
+}
+
 ::placeholder {
     color: var(--blue);
     font-size: 14px;

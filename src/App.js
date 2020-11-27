@@ -9,6 +9,7 @@ import Collections from "./pages/Collections";
 import Contact from "./pages/Contact";
 import QuiSommesNous from "./pages/QuiSommesNous";
 import tassePage from "./pages/PageTasse";
+import pageTassesPico from "./pages/PageTassePico";
 import bolPage from "./pages/PageBol";
 import vasePage from "./pages/PageVase";
 import ramequinPage from "./pages/PageRamequin";
@@ -30,6 +31,7 @@ function App() {
         <Route path="/contact" component={Contact} />
         <Route path="/qui-sommes-nous" component={QuiSommesNous} />
         <Route path="/tasses" component={tassePage} />
+        <Route path="/tasses-pico" component={pageTassesPico} />
         <Route path="/bols" component={bolPage} />
         <Route path="/vases" component={vasePage} />
         <Route path="/ramequins" component={ramequinPage} />

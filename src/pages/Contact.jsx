@@ -3,35 +3,6 @@ import "../styles/contact.css";
 import emailjs from "emailjs-com";
 
 
-// export default function Contact() {
-
-//   function sendEmail(e) {
-//     e.preventDefault();
-
-//     emailjs.sendForm('service_ccc42rl', 'template_c0mpwaa', e.target, 'user_5YJbNYo7M4mm6EkHuui0e')
-//       .then((result) => {
-//           console.log(result.text);
-//       }, (error) => {
-//           console.log(error.text);
-//       });
-//   }
-
-//   return (
-//     <form className="contact-form" onSubmit={sendEmail}>
-//       <input type="hidden" name="contact_number" />
-//       <label>Name</label>
-//       <input type="text" name="first_name" />
-//       <label>Email</label>
-//       <input type="email" name="email" />
-//       <label>Message</label>
-//       <textarea name="message" />
-//       <input type="submit" value="Send" />
-//     </form>
-//   );
-// }
-
-
-
 
 class Contact extends Component {
 
@@ -75,10 +46,16 @@ class Contact extends Component {
               </div>
 
               <p>email</p>
-              <input type="email" name="email" id="" placeholder="email"/>
+              <input type="email" name="email" id="" placeholder="email" required/>
               
               <p>sujet</p>
-              <input type="text" name="subject" id="" placeholder="sujet"/>
+              {/* <input type="text" name="subject" id="" placeholder="sujet"/> */}
+              <select name="subject" id="">
+                <option value="">sujet</option>
+                <option value="reservation">reservation pièce</option>
+                <option value="question">question</option>
+                <option value="autre">autre</option>
+              </select>
               
               <p>message</p>
               <textarea name="message" id="" cols="30" rows="10" placeholder="votre message ici"></textarea>

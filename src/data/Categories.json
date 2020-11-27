@@ -1,8 +1,13 @@
 [
     {
         "id": "tasses",
-        "name": "tasses",
+        "name": "tasses Nano",
         "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605874516/Jo2-website/Categories/Sans_titre-1_rddndv.png"
+    },
+    {
+        "id": "tasses-pico",
+        "name": "tasses Pico",
+        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1605295479/Jo2-website/Categories/DSC03271_y1aon4.jpg"
     },
     {
         "id": "bols",

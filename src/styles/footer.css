@@ -21,6 +21,10 @@ footer ul li {
     position: relative;
 }
 
+footer ul li img {
+    width: 12px;
+}
+
 footer ul li::after {
     content: "";
     display: block;

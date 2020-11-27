@@ -1,5 +1,6 @@
 import React from 'react';
 import "../styles/footer.css";
+import copyright from "../images/copyright-logo.svg";
 
 const Footer = () => {
     return (
@@ -7,8 +8,8 @@ const Footer = () => {
             <ul>
                 <li>CGV</li>
                 <li>Web: Laura Caillaux</li>
-                <li>adresse: 91 route des Romains 67000 Strabourg</li>
-
+                <li> <img src={copyright} alt="copyright white logo"/> Jonathan Stab</li>
+                <li>2020</li>
             </ul>
         </footer>
     )

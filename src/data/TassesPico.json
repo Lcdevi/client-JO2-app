@@ -1,0 +1,18 @@
+[
+    {
+        "id": "tasse-pico_01",
+        "name": "tasse pico 001",
+        "price": 30,
+        "reference": "pico-001",
+        "description": "Proin eu dignissim libero. Etiam elit lacus, sodales eget nisl vitae, pretium faucibus dui.",
+        "diameter":"6 cm",
+        "height":"7 cm",
+        "matter":"porcelaine",
+        "image": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606416255/Jo2-website/Items/Pico/pico001-1_f0vmhv.jpg",
+        "imageDetails2": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606416245/Jo2-website/Items/Pico/pico001-2_e89zzy.jpg",
+        "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606416247/Jo2-website/Items/Pico/pico001-3_ievod6.jpg",
+        "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606416249/Jo2-website/Items/Pico/pico001-4_qdtyvc.jpg",
+        "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606416284/Jo2-website/Items/Pico/pico001-5_nt8j1j.jpg",
+        "shape": "tasse"
+    }
+]

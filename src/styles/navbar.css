@@ -49,12 +49,13 @@
 #jo2-home {
     margin: 0 0 0 70px;
     font-size: 20px;
-    transition-property: border-bottom;
-    transition-duration: 1s;
+    transition: transform;
+    transition-duration: 0.5s;
 }
 
 #jo2-home:hover {
-    border-bottom: 2px solid var(--blue);
+    transform: scale(1.1);
+
 }
 
 #social-div {
@@ -64,15 +65,9 @@
     margin: 0 70px 0 0;
 }
 
-.social-logo {
-    width: 20px;
-    height: 20px;
-    background-color: var(--blue);
-}
-
 #social-div img {
-    width: 20px;
-    height: 20px;
+    width: 24px;
+    height: 24px;
     transition: transform;
     transition-duration: 0.5s;
 }
