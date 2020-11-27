@@ -6,8 +6,9 @@ const Footer = () => {
         <footer>
             <ul>
                 <li>CGV</li>
-                <li>F.A.Q</li>
-                <li>Webmaster: Laura Caillaux</li>
+                <li>Web: Laura Caillaux</li>
+                <li>adresse: 91 route des Romains 67000 Strabourg</li>
+
             </ul>
         </footer>
     )

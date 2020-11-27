@@ -1,0 +1,52 @@
+#quisommesnous-main-container {
+    /* border: 2px solid red; */
+    margin: 40px 0 100px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#quisommesnous-main-container h1 {
+    color: var(--blue);
+}
+
+.quisommesnous-bloc {
+    /* border: 1px solid green; */
+    display: flex;
+    justify-content: center;
+    margin: 40px 20px;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.image-quisommesnous {
+    /* border: 1px solid pink; */
+    margin: 20px;
+}
+
+.image-quisommesnous img {
+    width: 600px;
+}
+
+.text-quisommesnous {
+    /* border: 1px solid grey; */
+    color: var(--blue);
+    margin: 20px;
+    width: 450px;
+}
+
+.image-atelier img {
+    width: 800px;
+}
+
+.image-atelier {
+    /* border: 1px solid pink; */
+    margin: 20px;
+}
+
+.text-atelier {
+    /* border: 1px solid grey; */
+    color: var(--blue);
+    margin: 20px;
+    width: 240px;
+}
