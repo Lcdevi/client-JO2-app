@@ -14,6 +14,7 @@ import bolPage from "./pages/PageBol";
 import vasePage from "./pages/PageVase";
 import ramequinPage from "./pages/PageRamequin";
 import ObjetDetails from "./pages/ObjetDetails";
+import testGsap from "./pages/TestGsap";
 
 
 // ---------------- IMPORT STYLE ----------------- //
@@ -35,6 +36,7 @@ function App() {
         <Route path="/bols" component={bolPage} />
         <Route path="/vases" component={vasePage} />
         <Route path="/ramequins" component={ramequinPage} />
+        <Route path="/test" component={testGsap} />
         <Route path="/:itemId" component={ObjetDetails} />
 
       </Switch>
