@@ -8,20 +8,5 @@
         "id": "tasses-pico",
         "name": "tasses Pico",
         "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606568480/Jo2-website/Categories/image-manquante_g3qt0b.svg"
-    },
-    {
-        "id": "bols",
-        "name": "bols",
-        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606568480/Jo2-website/Categories/image-manquante_g3qt0b.svg"
-    },
-    {
-        "id": "vases",
-        "name": "vases",
-        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606568480/Jo2-website/Categories/image-manquante_g3qt0b.svg"
-    },
-    {
-        "id": "ramequins",
-        "name": "ramequins",
-        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606568480/Jo2-website/Categories/image-manquante_g3qt0b.svg"
     }
 ]

@@ -29,9 +29,7 @@ class Home extends Component {
                   <div className="top-main-image-home">
                       {/* <img src="https://res.cloudinary.com/lcdevicloud/image/upload/v1606416407/Jo2-website/Items/Pico/pico017-1_adz8cm.jpg" alt="ceramique porcelaine gravée"/> */}
                       <p>
-                          <span>Jo </span>
-                          <span>carré </span>
-                          <span>céramique</span>
+                      La rencontre entre un céramiste obsessionnel et un dessinateur inconstant
                       </p>
                   </div>
                   

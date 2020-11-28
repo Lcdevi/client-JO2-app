@@ -46,23 +46,35 @@
     border-bottom: 1px solid var(--blue);
 } */
 
-#jo2-home {
-    margin: 0 0 0 70px;
-    font-size: 20px;
+#jo2-home img {
+    /* border: 1px solid red; */
+    width: 28px;
     transition: transform;
     transition-duration: 0.5s;
 }
 
-#jo2-home:hover {
+#jo2-home {
+    display: flex;
+    justify-content: center;
+    margin: 0 0 0 70px;
+}
+
+#jo2-home img:hover {
     transform: scale(1.1);
 
 }
 
 #social-div {
     display: flex;
-    width: 110px;
-    justify-content: space-between;
     margin: 0 70px 0 0;
+    align-items: center;
+    justify-content: center;
+}
+
+#social-div a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #social-div img {

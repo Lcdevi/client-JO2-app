@@ -1,8 +1,8 @@
 import React from 'react'
 import '../styles/quiSommesNous.css';
-import jojoImage from '../images/jojo001.JPG';
-import jojozImage from '../images/jojoz001.JPG';
-import atelier001Image from '../images/atelier001.JPG';
+import jojoImage from '../images/jonathan-daviau-portrait-2.jpg';
+import jojozImage from '../images/jonathan-stab-portrait.jpg';
+import atelier001Image from '../images/atelier-la-hutte-001.jpg';
 
 
 const QuiSommesNous = () => {
