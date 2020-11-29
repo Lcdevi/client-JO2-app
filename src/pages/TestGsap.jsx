@@ -34,10 +34,8 @@ class TestGsap extends Component {
 
         return (
             <div>
-                <h1
-                
-                >
-                    <div ref={el => this.mySecondElement = el} className="yo">Lorem </div><div ref={el => this.myThirdElement = el} className="yo">ipsum </div><div ref={el => this.myFourthElement = el} className="yo">dolor.</div>
+                <h1>
+                    <span ref={el => this.mySecondElement = el} className="yo">Lorem&nbsp;</span><span ref={el => this.myThirdElement = el} className="yo">ipsum&nbsp; </span><span ref={el => this.myFourthElement = el} className="yo">dolor.&nbsp;</span>
                 </h1>
             </div>
         )
