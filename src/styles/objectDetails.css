@@ -71,22 +71,26 @@
 
 .object-details-container .title-price {
     /* border: 1px solid red; */
-
 }
 
 .object-details-container .price {
     /* border: 1px solid green; */
     color: var(--blue);
     font-weight: bold;
-    font-size: 26px;
+    font-size: 22px;
+    width: 70px;
+    display: flex;
+    justify-content: flex-end;
 }
 
+
 .object-details-container h1 {
-    font-size: 26px;
+    font-size: 22px;
+    margin: 0 0 3px 0;
 }
 
 .object-details-container h2 {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: normal;
 }
 

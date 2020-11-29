@@ -59,10 +59,6 @@
     margin: 0 0 0 70px;
 }
 
-#jo2-home img:hover {
-    transform: scale(1.1);
-
-}
 
 #social-div {
     display: flex;

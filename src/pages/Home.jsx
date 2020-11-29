@@ -37,16 +37,19 @@ class Home extends Component {
     
     componentDidMount(){
         // use the node ref to create the animation
-        this.myTween = TweenLite.to(this.firstWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 0.2});
-        this.myTween = TweenLite.to(this.secondWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 0.4});
-        this.myTween = TweenLite.to(this.thirdWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 0.6});
-        this.myTween = TweenLite.to(this.fourthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 0.8});
-        this.myTween = TweenLite.to(this.fifthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 1});
-        this.myTween = TweenLite.to(this.sixthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 1.2});
-        this.myTween = TweenLite.to(this.seventhWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 1.4});
-        this.myTween = TweenLite.to(this.heigthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 1.6});
-        this.myTween = TweenLite.to(this.ninthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 1.8});
-        this.myTween = TweenLite.to(this.tenthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 2});
+        // this.myTween = TweenLite.to(this.firstWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 0.2});
+        // this.myTween = TweenLite.to(this.secondWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 0.4});
+        // this.myTween = TweenLite.to(this.thirdWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 0.6});
+        // this.myTween = TweenLite.to(this.fourthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 0.8});
+        // this.myTween = TweenLite.to(this.fifthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 1});
+        // this.myTween = TweenLite.to(this.sixthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 1.2});
+        // this.myTween = TweenLite.to(this.seventhWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 1.4});
+        // this.myTween = TweenLite.to(this.heigthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 1.6});
+        // this.myTween = TweenLite.to(this.ninthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 1.8});
+        // this.myTween = TweenLite.to(this.tenthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 2});
+
+        this.myTween = TweenLite.staggerTo([this.firstWord, this.secondWord, this.thirdWord, this.fourthWord, this.fifthWord, this.sixthWord, this.seventhWord, this.heigthWord, this.ninthWord, this.tenthWord ], 1.2, {opacity: 1, y: 230, ease: Power3.easeOut}, .2);
+
       }
 
       render() {
@@ -87,7 +90,7 @@ class Home extends Component {
                             dessinateur&nbsp; 
                           </span>
                           <span ref={el => this.tenthWord = el}>
-                            inconstant.
+                            inconstant
                           </span>
                       </p>
                   </div>
