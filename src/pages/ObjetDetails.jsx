@@ -21,7 +21,7 @@ class ObjetDetails extends Component {
                         <div className="title-price-wrapper">
                             <div className="title-price">
                                 <h1>{this.state.item.location.state.item.name}</h1>
-                                <h2>référence: {this.state.item.location.state.item.reference}</h2>
+                                <h3>référence: {this.state.item.location.state.item.reference}</h3>
                             </div>
                             <div className="price">
                                 {this.state.item.location.state.item.price} €
@@ -29,7 +29,7 @@ class ObjetDetails extends Component {
                         </div>
                         <div>
                             <div className="caracteristique">
-                                <h3>caractéristiques</h3>
+                                <h2>caractéristiques</h2>
                             </div>
                             <p><span>diamètre</span> {this.state.item.location.state.item.diameter} </p>
                             <p><span>hauteur</span> {this.state.item.location.state.item.height} </p>
