@@ -12,9 +12,15 @@
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
     flex-direction: column;
-    /* align-items: center; */
+    align-items: center;
+    background-position: center;
+
+}
+
+#toto {
+    margin: 0 20px;
 }
 
 .top-main-image-home p {
@@ -127,4 +133,20 @@
 #main-home-photo {
     height: 600px;
     width: 100%;
+}
+
+
+@media (max-width: 414px) {
+
+
+    #toto {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .top-main-image-home {
+        width: 100vw;
+        background-position: center;
+    }
+
 }

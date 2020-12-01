@@ -20,7 +20,7 @@ class Home extends Component {
         this.ninthWord = null;
         this.tenthWord = null;
         // reference all sentence to the DOM node
-        this.sentence = null;
+        // this.sentence = null;
 
         
 
@@ -35,7 +35,7 @@ class Home extends Component {
         this.myTween8 = null;
         this.myTween9 = null;
         this.myTween10 = null;
-        this.myTween11 = null;
+        // this.myTween11 = null;
     }
     
     componentDidMount(){
@@ -50,7 +50,7 @@ class Home extends Component {
         // this.myTween = TweenLite.to(this.heigthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 1.6});
         // this.myTween = TweenLite.to(this.ninthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 1.8});
         // this.myTween = TweenLite.to(this.tenthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 2});
-        this.myTween11 = TweenLite.to(this.sentence, 12, {opacity: 1, ease: Power3.easeOutn, delay: 0.5});
+        // this.myTween11 = TweenLite.to(this.sentence, 12, {opacity: 1, ease: Power3.easeOutn, delay: 0.5});
 
         this.myTween = TweenLite.staggerTo([this.firstWord, this.secondWord, this.thirdWord, this.fourthWord, this.fifthWord, this.sixthWord, this.seventhWord, this.heigthWord, this.ninthWord, this.tenthWord ], 4, {opacity: 1, y: 230, ease: Power3.easeOut}, .2);
 
@@ -65,11 +65,11 @@ class Home extends Component {
               <div id="main-container-home">
                   <div className="top-main-image-home">
                       {/* <img src="https://res.cloudinary.com/lcdevicloud/image/upload/v1606416407/Jo2-website/Items/Pico/pico017-1_adz8cm.jpg" alt="ceramique porcelaine gravée"/> */}
-                      <p id="test-anim-home" ref={el => this.sentence = el}>
+                      {/* <p id="test-anim-home" ref={el => this.sentence = el}>
                         La rencontre entre un céramiste obsessionnel et un illustrateur inconstant
-                      </p>
+                      </p> */}
 
-                      <p>
+                      <p id="toto">
                           <span ref={el => this.firstWord = el}>
                             La&nbsp; 
                           </span>
