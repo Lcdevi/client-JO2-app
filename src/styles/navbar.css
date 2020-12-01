@@ -22,6 +22,10 @@
     flex-wrap: wrap;
 }
 
+.navbar-accueil-li {
+    display: none;
+}
+
 .nav ul li {
     border-bottom: 1px solid var(--blue);
     padding: 4px 0;
@@ -113,7 +117,7 @@
 
     .nav {
         /* flex-direction: column; */
-        height: 150px;
+        height: 180px;
     }
 
     .nav ul li img {
@@ -122,5 +126,9 @@
 
     #social-div {
         display: none;
+    }
+
+    .navbar-accueil-li {
+        display: block;
     }
 }

@@ -39,3 +39,23 @@
 .actualite-text h2 {
     font-size: 18px;
 }
+
+
+@media (max-width: 414px) {
+
+    .actualite-bloc {
+        flex-direction: column;
+        width: 100vw;
+        align-items: center;
+    }
+
+    .actualite-bloc img {
+        width: 90vw;
+    }
+
+    .actualite-text {
+        width: 90vw;
+        margin: 20px 0 0 0;
+    }
+
+}

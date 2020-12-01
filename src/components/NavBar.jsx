@@ -11,6 +11,13 @@ const NavBar = () => {
             <nav className="nav">
                 <NavLink to="/"><div id="jo2-home"><img src={logoJoCarre} alt="logo jo carre blanc"/></div></NavLink>
                 <ul>
+
+                    <NavLink 
+                        to="/"
+                    >
+                        <li className="navbar-accueil-li">Accueil</li>
+                    </NavLink>
+
                     <NavLink 
                         to="/collections"
                         activeStyle={{

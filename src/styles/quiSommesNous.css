@@ -52,3 +52,34 @@
     margin: 20px;
     width: 240px;
 }
+
+
+
+
+@media (max-width: 414px) {
+
+
+    .quisommesnous-bloc {
+        flex-wrap: wrap;
+        margin: 10px 0;
+    }
+
+    .image-quisommesnous img {
+        width: 90vw;
+    }
+
+    .text-quisommesnous {
+        width: 90vw;
+        order: 2;
+    }
+
+    .image-atelier img {
+        width: 90vw;
+    }
+
+    .text-atelier {
+        width: 90vw;
+    }
+
+
+}
