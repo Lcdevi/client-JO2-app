@@ -16,8 +16,8 @@ class PageTasse extends Component {
         console.log(this.state)
         return (
             <div className="form-container">
-                {/* <div className="title-forme">Nom de la forme 1 + dessin de la forme 1</div> */}
-                <img src={TassesImg} alt="tasse noir et blanc"/>
+                <h1>Les tasses Nano</h1>
+                {/* <img src={TassesImg} alt="tasse noir et blanc"/> */}
                 <div>
                     <ItemCart items={ itemsData } />
                 </div>

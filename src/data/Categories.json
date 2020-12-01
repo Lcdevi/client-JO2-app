@@ -2,11 +2,21 @@
     {
         "id": "tasses",
         "name": "tasses Nano",
-        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606568480/Jo2-website/Categories/image-manquante_g3qt0b.svg"
+        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606841079/Jo2-website/Categories/Group_2_chaqv7.png"
     },
     {
         "id": "tasses-pico",
         "name": "tasses Pico",
-        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606568480/Jo2-website/Categories/image-manquante_g3qt0b.svg"
+        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606841079/Jo2-website/Categories/Group_2_chaqv7.png"
+    },
+    {
+        "id": "tasses-allegro",
+        "name": "tasses Allegro",
+        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606841079/Jo2-website/Categories/Group_2_chaqv7.png"
+    },
+    {
+        "id": "vase",
+        "name": "vases",
+        "imageUrl": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606841079/Jo2-website/Categories/Group_2_chaqv7.png"
     }
 ]

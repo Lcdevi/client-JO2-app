@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import {Link} from 'react-router-dom';
-import homeImage from '../images/img-home.JPG';
 import '../styles/home.css';
 import { Power3, TweenLite } from "gsap";
+import SmallCategoriesCart from "../components/SmallCategoryCart";
 
 class Home extends Component {
 
@@ -19,6 +19,8 @@ class Home extends Component {
         this.eighthWord = null;
         this.ninthWord = null;
         this.tenthWord = null;
+        // reference all sentence to the DOM node
+        this.sentence = null;
 
         
 
@@ -33,6 +35,7 @@ class Home extends Component {
         this.myTween8 = null;
         this.myTween9 = null;
         this.myTween10 = null;
+        this.myTween11 = null;
     }
     
     componentDidMount(){
@@ -47,8 +50,9 @@ class Home extends Component {
         // this.myTween = TweenLite.to(this.heigthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 1.6});
         // this.myTween = TweenLite.to(this.ninthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 1.8});
         // this.myTween = TweenLite.to(this.tenthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 2});
+        this.myTween11 = TweenLite.to(this.sentence, 12, {opacity: 1, ease: Power3.easeOut});
 
-        this.myTween = TweenLite.staggerTo([this.firstWord, this.secondWord, this.thirdWord, this.fourthWord, this.fifthWord, this.sixthWord, this.seventhWord, this.heigthWord, this.ninthWord, this.tenthWord ], 1.2, {opacity: 1, y: 230, ease: Power3.easeOut}, .2);
+        this.myTween = TweenLite.staggerTo([this.firstWord, this.secondWord, this.thirdWord, this.fourthWord, this.fifthWord, this.sixthWord, this.seventhWord, this.heigthWord, this.ninthWord, this.tenthWord ], 4, {opacity: 1, y: 230, ease: Power3.easeOut}, .2);
 
       }
 
@@ -61,6 +65,10 @@ class Home extends Component {
               <div id="main-container-home">
                   <div className="top-main-image-home">
                       {/* <img src="https://res.cloudinary.com/lcdevicloud/image/upload/v1606416407/Jo2-website/Items/Pico/pico017-1_adz8cm.jpg" alt="ceramique porcelaine gravée"/> */}
+                      <p id="test-anim-home" ref={el => this.sentence = el}>
+                        La rencontre entre un céramiste obsessionnel et un illustrateur inconstant
+                      </p>
+
                       <p>
                           <span ref={el => this.firstWord = el}>
                             La&nbsp; 
@@ -94,40 +102,15 @@ class Home extends Component {
                           </span>
                       </p>
                   </div>
-                  
-                  <div className="bottom-actualite-home">
-                      <h1>actualités</h1>
-                      <div className="actualite-bloc">
-                          <div className="actualite-image">
-                              <img src={homeImage} alt=""/>
-                          </div>
-                          <div className="actualite-text">
-                              <h2>festival de Cannes</h2>
-                              <br/>
-                              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate, autem.</p>
-                          </div>
+
+                  <div className="home-collection-container">
+                      <h1>Les collections</h1>
+                      <div>
+                        <SmallCategoriesCart />
                       </div>
-                      <div className="actualite-bloc">
-                          <div className="actualite-image">
-                              <img src={homeImage} alt=""/>
-                          </div>
-                          <div className="actualite-text">
-                              <h2>festival de Cannes</h2>
-                              <br/>
-                              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate, autem.</p>
-                          </div>
-                      </div>
-                      <div className="actualite-bloc">
-                          <div className="actualite-image">
-                              <img src={homeImage} alt=""/>
-                          </div>
-                          <div className="actualite-text">
-                              <h2>festival de Cannes</h2>
-                              <br/>
-                              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate, autem.</p>
-                          </div>
-                      </div>
+
                   </div>
+                  
                   {/* <div id='main-home-div'> */}
       
                       {/* <div id="home-image-and-infos"> */}

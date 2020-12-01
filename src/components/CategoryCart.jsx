@@ -16,7 +16,7 @@ class CategoryCart extends Component {
                     // <Link to={`/collections/${cat.id}`} key={index}>
                     <Link to={`/${cat.id}`} key={index} categories={this.state.categories}>
                         <div id="cat-cart-container">
-                            <img src={cat.imageUrl} alt=""/>
+                            <img src={cat.imageUrl} alt="vaisselle en ceramique"/>
                             <div id='topito'>
                                 <h2>{cat.name}</h2>
                             </div>

@@ -16,8 +16,7 @@ footer ul {
 }
 
 footer ul li {
-    margin: 14px;
-    cursor: pointer;
+    margin: 18px;
     position: relative;
 }
 
@@ -25,7 +24,12 @@ footer ul li img {
     width: 12px;
 }
 
-footer ul li::after {
+footer ul li span {
+    font-weight: 700;
+    border-bottom: 1px solid var(--light-pink);
+}
+
+/* footer ul li::after {
     content: "";
     display: block;
     position: absolute;
@@ -34,8 +38,8 @@ footer ul li::after {
     margin-top: 4px;
     background-color: white;
     transition: 0.8s ease;
-}
+} */
 
-footer ul li:hover::after {
+/* footer ul li:hover::after {
     width: 100%;
-}
+} */

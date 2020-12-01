@@ -7,9 +7,7 @@ const Footer = () => {
         <footer>
             <ul>
                 <li>CGV</li>
-                <li>Web: Laura Caillaux</li>
-                <li> <img src={copyright} alt="copyright white logo"/> Laura Caillaux</li>
-                <li>2020</li>
+                <li> <img src={copyright} alt="copyright white logo"/> dessiné et développé par <a href="#"><span>Laura Caillaux</span></a> pour les fabuleux Jo Carré à la fin de l'année 2020 entre Paris et Strasbourg</li>
             </ul>
         </footer>
     )

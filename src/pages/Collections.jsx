@@ -16,7 +16,8 @@ class Collections extends React.Component {
         console.log(this.state)
         return (
             <div id="collections-page">
-                <img src={LesFormesImg} alt="formes de poteries céramiques"/>
+                <h1>Les collections</h1>
+                {/* <img src={LesFormesImg} alt="formes de poteries céramiques"/> */}
                 <CategoryCart categories={ CategoriesData }/>
             </div>
         )
