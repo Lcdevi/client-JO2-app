@@ -43,3 +43,17 @@
     color: var(--blue);
     border-bottom: solid 1px var(--blue);
 }
+
+@media (max-width: 414px) {
+    
+    
+    .small-cart-container img {
+        width: 90vw;
+    }
+
+    .small-cart-container {
+        margin: 20px 0;
+    }
+
+
+}

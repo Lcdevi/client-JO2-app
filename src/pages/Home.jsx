@@ -9,16 +9,16 @@ class Home extends Component {
     constructor(props){
         super(props);
         // reference to the DOM node
-        this.firstWord = null;
-        this.secondWord = null;
-        this.thirdWord = null;
-        this.fourthWord = null;
-        this.fifthWord = null;
-        this.sixthWord = null;
-        this.seventhWord = null;
-        this.eighthWord = null;
-        this.ninthWord = null;
-        this.tenthWord = null;
+        // this.firstWord = null;
+        // this.secondWord = null;
+        // this.thirdWord = null;
+        // this.fourthWord = null;
+        // this.fifthWord = null;
+        // this.sixthWord = null;
+        // this.seventhWord = null;
+        // this.eighthWord = null;
+        // this.ninthWord = null;
+        // this.tenthWord = null;
         // reference all sentence to the DOM node
         this.sentence = null;
 
@@ -50,9 +50,9 @@ class Home extends Component {
         // this.myTween = TweenLite.to(this.heigthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 1.6});
         // this.myTween = TweenLite.to(this.ninthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 1.8});
         // this.myTween = TweenLite.to(this.tenthWord, 1.2, {opacity: 1, y: 230, ease: Power3.easeOut, delay: 2});
-        this.myTween11 = TweenLite.to(this.sentence, 12, {opacity: 1, ease: Power3.easeOut});
+        this.myTween11 = TweenLite.to(this.sentence, 12, {opacity: 1, ease: Power3.easeOutn, delay: 0.5});
 
-        this.myTween = TweenLite.staggerTo([this.firstWord, this.secondWord, this.thirdWord, this.fourthWord, this.fifthWord, this.sixthWord, this.seventhWord, this.heigthWord, this.ninthWord, this.tenthWord ], 4, {opacity: 1, y: 230, ease: Power3.easeOut}, .2);
+        // this.myTween = TweenLite.staggerTo([this.firstWord, this.secondWord, this.thirdWord, this.fourthWord, this.fifthWord, this.sixthWord, this.seventhWord, this.heigthWord, this.ninthWord, this.tenthWord ], 4, {opacity: 1, y: 230, ease: Power3.easeOut}, .2);
 
       }
 
@@ -69,7 +69,7 @@ class Home extends Component {
                         La rencontre entre un céramiste obsessionnel et un illustrateur inconstant
                       </p>
 
-                      <p>
+                      {/* <p>
                           <span ref={el => this.firstWord = el}>
                             La&nbsp; 
                           </span>
@@ -100,7 +100,7 @@ class Home extends Component {
                           <span ref={el => this.tenthWord = el}>
                             inconstant
                           </span>
-                      </p>
+                      </p> */}
                   </div>
 
                   <div className="home-collection-container">

@@ -46,6 +46,10 @@ const NavBar = () => {
                     >
                         <li>Actualités</li>
                     </NavLink>
+
+                    <li>
+                        <img src={instagramImg} alt="instagram logo"/>
+                    </li>
                 </ul>
                 <div id="social-div">
                     <a href="https://www.instagram.com/jocarreceramics/" target="_blank" rel="noreferrer"><img src={instagramImg} alt="instagram logo"/></a>
