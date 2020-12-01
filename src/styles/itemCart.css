@@ -15,6 +15,21 @@
     /* margin: 0 60px; */
 }
 
+.indisponible {
+    /* border: 1px solid red; */
+}
+
+.enfant-indispo {
+    text-transform: uppercase;
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: var(--light-pink);
+    margin: 20px;
+    background-color: tomato;
+    padding: 3px 5px;
+}
+
 .single-item-cart img {
     /* border: 1px solid red; */
     width: 350px;

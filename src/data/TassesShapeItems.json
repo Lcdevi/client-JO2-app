@@ -13,7 +13,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587415/Jo2-website/Items/Nano/nano001-3_rgivjt.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587417/Jo2-website/Items/Nano/nano001-4_kz8afj.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587416/Jo2-website/Items/Nano/nano001-5_pm2clv.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": false
     },
     {
         "id": "tasse-nano_2",
@@ -29,7 +30,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587420/Jo2-website/Items/Nano/nano002-3_vci5zd.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587419/Jo2-website/Items/Nano/nano002-4_odnot1.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587420/Jo2-website/Items/Nano/nano002-5_aaqa3r.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_3",
@@ -45,7 +47,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587421/Jo2-website/Items/Nano/nano003-3_ivtmxk.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587422/Jo2-website/Items/Nano/nano003-4_vg3uoy.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587422/Jo2-website/Items/Nano/nano003-5_oszyzo.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_4",
@@ -61,7 +64,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587429/Jo2-website/Items/Nano/nano004-3_k3gtd1.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587424/Jo2-website/Items/Nano/nano004-4_d4kqmd.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587427/Jo2-website/Items/Nano/nano004-5_tynm2w.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_5",
@@ -77,7 +81,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587426/Jo2-website/Items/Nano/nano005-3_sj0h4x.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587428/Jo2-website/Items/Nano/nano005-4_ukmtmp.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587428/Jo2-website/Items/Nano/nano005-5_n3jvu9.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_6",
@@ -93,7 +98,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587413/Jo2-website/Items/Nano/nano006-3_qbjvze.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587413/Jo2-website/Items/Nano/nano006-4_u6rwqd.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587413/Jo2-website/Items/Nano/nano006-5_zt3zsc.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_7",
@@ -109,7 +115,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587415/Jo2-website/Items/Nano/nano007-3_o8hxa2.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587415/Jo2-website/Items/Nano/nano007-4_jgkcrk.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587415/Jo2-website/Items/Nano/nano007-5_l0xcey.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_8",
@@ -125,7 +132,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587417/Jo2-website/Items/Nano/nano008-3_afkfmt.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587417/Jo2-website/Items/Nano/nano008-4_psuvi3.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587417/Jo2-website/Items/Nano/nano008-5_vxy21f.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_9",
@@ -141,7 +149,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587419/Jo2-website/Items/Nano/nano009-3_mdmobe.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587419/Jo2-website/Items/Nano/nano009-4_a0f7kl.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587420/Jo2-website/Items/Nano/nano009-5_ltn0x7.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_10",
@@ -157,7 +166,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587421/Jo2-website/Items/Nano/nano010-3_im2h42.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587421/Jo2-website/Items/Nano/nano010-4_hvj0xb.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587421/Jo2-website/Items/Nano/nano010-5_y9ymer.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_11",
@@ -173,7 +183,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587422/Jo2-website/Items/Nano/nano011-3_r4bb2j.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587422/Jo2-website/Items/Nano/nano011-4_gda21o.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587423/Jo2-website/Items/Nano/nano011-5_apvtsm.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_12",
@@ -189,7 +200,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587425/Jo2-website/Items/Nano/nano012-3_xgv0j5.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587424/Jo2-website/Items/Nano/nano012-4_nkqb05.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587425/Jo2-website/Items/Nano/nano012-5_fyjsed.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_13",
@@ -205,7 +217,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587425/Jo2-website/Items/Nano/nano013-3_e9mfhp.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587426/Jo2-website/Items/Nano/nano013-4_whiud3.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587427/Jo2-website/Items/Nano/nano013-5_xoo2ze.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_14",
@@ -221,7 +234,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587429/Jo2-website/Items/Nano/nano014-3_lyhshq.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587430/Jo2-website/Items/Nano/nano014-4_yljnzu.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587430/Jo2-website/Items/Nano/nano014-5_szc2wm.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_15",
@@ -237,7 +251,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587431/Jo2-website/Items/Nano/nano015-3_qdyfxm.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587431/Jo2-website/Items/Nano/nano015-4_ntpejr.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587431/Jo2-website/Items/Nano/nano015-5_bfzrmp.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_16",
@@ -253,7 +268,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587431/Jo2-website/Items/Nano/nano016-3_tkhpdp.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587432/Jo2-website/Items/Nano/nano016-4_btdprq.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587432/Jo2-website/Items/Nano/nano016-5_sbwlpn.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_17",
@@ -269,7 +285,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587433/Jo2-website/Items/Nano/nano017-3_tyu2x5.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587433/Jo2-website/Items/Nano/nano017-4_wqjxik.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587433/Jo2-website/Items/Nano/nano017-5_cs4now.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_18",
@@ -285,7 +302,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587434/Jo2-website/Items/Nano/nano018-3_oqwxbf.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587434/Jo2-website/Items/Nano/nano018-4_xbd7bq.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587435/Jo2-website/Items/Nano/nano018-5_w4y8l2.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_19",
@@ -301,7 +319,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587435/Jo2-website/Items/Nano/nano019-3_ju346a.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587435/Jo2-website/Items/Nano/nano019-4_rfvo3g.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587435/Jo2-website/Items/Nano/nano019-5_hrizjg.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_20",
@@ -317,7 +336,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587436/Jo2-website/Items/Nano/nano020-3_wtbhsr.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587436/Jo2-website/Items/Nano/nano020-4_tpzeez.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587436/Jo2-website/Items/Nano/nano020-5_jjlmlo.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_21",
@@ -333,7 +353,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587437/Jo2-website/Items/Nano/nano021-3_sixiqm.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587437/Jo2-website/Items/Nano/nano021-4_aoqj8b.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587438/Jo2-website/Items/Nano/nano021-5_ti3an5.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_22",
@@ -349,7 +370,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587439/Jo2-website/Items/Nano/nano022-3_vx0hdu.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587439/Jo2-website/Items/Nano/nano022-4_lkno2z.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587439/Jo2-website/Items/Nano/nano022-5_cjssww.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_23",
@@ -365,7 +387,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587440/Jo2-website/Items/Nano/nano023-3_tqou2k.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587440/Jo2-website/Items/Nano/nano023-4_kay6bl.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587440/Jo2-website/Items/Nano/nano023-5_aumvdi.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_24",
@@ -381,7 +404,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587441/Jo2-website/Items/Nano/nano024-3_hnunnq.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587441/Jo2-website/Items/Nano/nano024-4_kppfst.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587441/Jo2-website/Items/Nano/nano024-5_kvz9lf.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_25",
@@ -397,7 +421,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587442/Jo2-website/Items/Nano/nano025-3_kks8cd.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587442/Jo2-website/Items/Nano/nano025-4_sqowcd.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587442/Jo2-website/Items/Nano/nano025-5_gmvk1m.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_26",
@@ -413,7 +438,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587443/Jo2-website/Items/Nano/nano026-3_i7nl9r.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587444/Jo2-website/Items/Nano/nano026-4_mnklkz.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587444/Jo2-website/Items/Nano/nano026-5_mbvhmk.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_27",
@@ -429,7 +455,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587444/Jo2-website/Items/Nano/nano027-3_qabfk1.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587445/Jo2-website/Items/Nano/nano027-4_dqjtth.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587445/Jo2-website/Items/Nano/nano027-5_yct76i.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_28",
@@ -445,7 +472,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587446/Jo2-website/Items/Nano/nano028-3_uxotqb.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587446/Jo2-website/Items/Nano/nano028-4_si2nzq.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587446/Jo2-website/Items/Nano/nano028-5_y5z0ih.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_29",
@@ -461,7 +489,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587448/Jo2-website/Items/Nano/nano029-3_y4d4sg.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587447/Jo2-website/Items/Nano/nano029-4_u3g3b6.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587448/Jo2-website/Items/Nano/nano029-5_z3s2nt.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_30",
@@ -477,7 +506,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587449/Jo2-website/Items/Nano/nano030-3_rrkxj6.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587449/Jo2-website/Items/Nano/nano030-4_pki9tz.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587449/Jo2-website/Items/Nano/nano030-5_kmdffi.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": false
     },
     {
         "id": "tasse-nano_31",
@@ -493,7 +523,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587450/Jo2-website/Items/Nano/nano031-3_y3jb5w.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587450/Jo2-website/Items/Nano/nano031-4_xeiqqt.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587450/Jo2-website/Items/Nano/nano031-5_z6rtv5.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     },
     {
         "id": "tasse-nano_32",
@@ -509,7 +540,8 @@
         "imageDetails3": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587451/Jo2-website/Items/Nano/nano032-3_oyx9la.jpg",
         "imageDetails4": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587451/Jo2-website/Items/Nano/nano032-4_cvpnx2.jpg",
         "imageDetails5": "https://res.cloudinary.com/lcdevicloud/image/upload/v1606587451/Jo2-website/Items/Nano/nano032-5_byy52r.jpg",
-        "shape": "tasse"
+        "shape": "tasse",
+        "dispo": true
     }
 
     

@@ -25,7 +25,8 @@ class ItemCart extends Component {
                   key={index}
                 >
 
-                    <div className="single-item-cart parent">
+                    {/* <div className="single-item-cart parent" > */}
+                    <div className={`single-item-cart parent${item.dispo ? '' : ' indisponible'}`} >
                         <img src={item.image} alt="ceramic details"/>
                         <div id="title-item">
                             <h2>{item.name}</h2>
@@ -34,6 +35,7 @@ class ItemCart extends Component {
                         <div className="enfant">
                             <div className="plus-d-infos">plus d'infos</div>
                         </div>
+                        {item.dispo ? '' : <div className="enfant-indispo">vendu</div>}
                     </div>
                 </Link>
                 ))
