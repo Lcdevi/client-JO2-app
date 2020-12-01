@@ -35,9 +35,13 @@ class ObjetDetails extends Component {
                             <p><span>hauteur</span> {this.state.item.location.state.item.height} </p>
                             <p><span>matière</span> {this.state.item.location.state.item.matter} </p>
                         </div>
-                        <Link to="/contact">
-                            <button>CONTACTEZ NOUS</button>
-                        </Link>
+                        {this.state.item.location.state.item.dispo ?
+                            <Link to="/contact">
+                                <button>CONTACTEZ NOUS</button>
+                            </Link> 
+                            : 
+                            <div className="vendu">VENDU</div>
+                        }
                     </div>
                     <div className="details-img-div img-details-1"><img src={this.state.item.location.state.item.image} alt="tasse en porcelaine gravée"/></div>
                     <div className="details-img-div img-details-2"><img src={this.state.item.location.state.item.imageDetails2} alt="tasse en porcelaine gravée"/></div>
