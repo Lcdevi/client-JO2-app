@@ -55,7 +55,7 @@ const NavBar = () => {
                     </NavLink>
 
                     <li>
-                        <img src={instagramImg} alt="instagram logo"/>
+                        <a href="https://www.instagram.com/jocarreceramics/" target="_blank" rel="noreferrer"><img src={instagramImg} alt="instagram logo"/></a>                    
                     </li>
                 </ul>
                 <div id="social-div">

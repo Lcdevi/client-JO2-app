@@ -34,12 +34,12 @@ class Contact extends Component {
             <form onSubmit={sendEmail}>
               
               <div id="nom-prenom">
-                <div>
+                <div id="input-nom">
                   <p>nom</p>
                   <input type="text" name="last_name" id="" placeholder="nom"/>
                 </div>
             
-                <div>
+                <div id="input-prenom">
                   <p>prénom</p>
                   <input type="text" name="first_name" id="" placeholder="prénom"/>                
                 </div>

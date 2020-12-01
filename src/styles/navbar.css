@@ -1,5 +1,5 @@
 .nav {
-    /* border: 1px solid pink; */
+    /* border: 4px solid pink; */
     /* border-bottom: 1px dashed var(--blue); */
     font-family: 'Ruda', sans-serif;
     /* font-weight: bold; */
@@ -106,7 +106,7 @@
 
 
 
-@media (max-width: 414px) {
+@media (max-width: 650px) {
     #jo2-home {
         display: none;
     }
@@ -118,6 +118,7 @@
     .nav {
         /* flex-direction: column; */
         height: 180px;
+        justify-content: center;
     }
 
     .nav ul li img {

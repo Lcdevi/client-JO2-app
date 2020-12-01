@@ -27,6 +27,7 @@
     /* border: 2px solid yellow; */
     width: 300px;
     height: 300px;
+    object-fit: cover;
 }
 
 .actualite-text {
@@ -41,7 +42,7 @@
 }
 
 
-@media (max-width: 414px) {
+@media (max-width: 650px) {
 
     .actualite-bloc {
         flex-direction: column;

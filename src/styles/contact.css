@@ -109,7 +109,7 @@ form textarea {
 
 
 
-@media (max-width: 414px) {
+@media (max-width: 650px) {
 
 
     #form-and-info-container {
@@ -160,6 +160,76 @@ form textarea {
 
     #contact-encart-info {
         width: 90vw;
+    }
+
+}
+
+@media (min-width: 650px) and (max-width: 920px) {
+    
+    #form-and-info-container {
+        width: 100vw;
+        justify-content: center;
+    }
+
+    #form-div {
+        width: 50%;
+    }
+
+    #contact-encart-info {
+        width: 40%;
+    }
+
+    form {
+        align-items: center;
+    }
+
+    form input {
+        width: 90%;
+    }
+    
+    form select {
+        width: 90%;
+    }
+
+    form textarea {
+        width: 90%;
+    }
+
+    #nom-prenom {
+        align-items: center;   
+        width: 90%; 
+    }
+
+    #nom-prenom #input-nom {
+        width: 50%;
+        text-align: center;
+    }
+
+    #nom-prenom #input-nom input {
+        width: 94%;
+        margin-right: 8px;
+    }
+
+    #nom-prenom #input-prenom {
+        width: 50%;
+        text-align: center;
+    }
+
+    #nom-prenom #input-prenom input {
+        width: 95%;
+        margin-left: 8px;
+    }
+
+    #nom-prenom :nth-child(0n+1) {
+        margin: 0;
+    }
+    
+    #nom-prenom p {
+        padding: 0;
+    }
+    
+    #form-div p {
+        margin: 12px 0 2px 0;
     }
 
 }

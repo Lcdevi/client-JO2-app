@@ -56,7 +56,7 @@
 
 
 
-@media (max-width: 414px) {
+@media (max-width: 650px) {
 
 
     .quisommesnous-bloc {
@@ -79,6 +79,32 @@
 
     .text-atelier {
         width: 90vw;
+    }
+
+
+}
+
+@media (min-width: 650px) and (max-width: 1156px) {
+
+
+    .quisommesnous-bloc {
+        width: 100vw;
+    }
+
+    .image-quisommesnous img {
+        width: 45vw;
+    }
+
+    .text-quisommesnous {
+        width: 45vw;
+    }
+
+    .image-atelier img {
+        width: 45vw;
+    }
+
+    .text-atelier {
+        width: 45vw;
     }
 
 
