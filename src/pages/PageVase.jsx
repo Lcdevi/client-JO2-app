@@ -1,24 +1,15 @@
 import React, { Component } from 'react';
-import "../styles/forme.css";
-import itemsData from "../data/VasesShapeItems.json";
-import ItemCart from '../components/ItemCart';
-import VasesImg from '../images/les-vases.jpg';
-
+import vaseEmpty from "../images/vase-empty.jpg"
+import "../styles/noItemPage.css"
 
 class PageVase extends Component {
 
-    state = {
-        items: itemsData,
-    }
-
     render() {
         return (
-            <div className="form-container">
-                {/* <div className="title-forme">Vase + dessin du Vase</div> */}
-                <img src={VasesImg} alt="vase noir et blanc"/>
-                <div>
-                    <ItemCart items={ itemsData } />
-                </div>
+            <div className="empty-vase-main-container">
+                <p>Les vases sont en cuisson, gravure, émaillage</p>
+                <p>Ils se font une beauté et arrivent vite</p>
+                <img src={vaseEmpty} alt=""/>
             </div>
         )
     }

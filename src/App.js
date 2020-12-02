@@ -13,6 +13,7 @@ import pageTassesPico from "./pages/PageTassePico";
 import bolPage from "./pages/PageBol";
 import vasePage from "./pages/PageVase";
 import ramequinPage from "./pages/PageRamequin";
+import pageTassesAllegro from "./pages/PageTasseAllegro";
 import ObjetDetails from "./pages/ObjetDetails";
 import Actualites from "./pages/Actualites";
 import testGsap from "./pages/TestGsap";
@@ -35,6 +36,7 @@ function App() {
         <Route path="/tasses" component={tassePage} />
         <Route path="/tasses-pico" component={pageTassesPico} />
         <Route path="/bols" component={bolPage} />
+        <Route path="/tasses-allegro" component={pageTassesAllegro} />
         <Route path="/vases" component={vasePage} />
         <Route path="/ramequins" component={ramequinPage} />
         <Route path="/actualites" component={Actualites} />

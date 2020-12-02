@@ -1,0 +1,17 @@
+.empty-vase-main-container {
+    /* border: 1px solid red; */
+    margin: 40px 0 100px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 65vh;
+    color: var(--blue);
+    line-height: 2;
+}
+
+
+.empty-vase-main-container img {
+    width: 250px;
+}
